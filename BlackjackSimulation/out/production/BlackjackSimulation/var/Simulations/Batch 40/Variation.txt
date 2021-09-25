@@ -1,0 +1,8 @@
+Variation:
+Shoe size	Player number	Penetration	Minimum bet	Reshuffle rate
+
+6	2	0.9	3	0.2
+
+
+
+

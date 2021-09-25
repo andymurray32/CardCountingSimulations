@@ -1,0 +1,2 @@
+Sorted by batch number to help organise the variations (48 variations x 6 methods) as shown in excel results spreadsheet
+Also, as number of players are 2 and 4, to improve the accuracy, the simulations were ran in pairs of the methods in the same game.

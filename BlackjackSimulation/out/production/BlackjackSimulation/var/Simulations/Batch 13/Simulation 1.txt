@@ -1,0 +1,2850 @@
+"C:\Program Files\Java\jdk-13\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.3\lib\idea_rt.jar=61693:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\andre\IdeaProjects\BlackjackSimulation\out\production\BlackjackSimulation var.Simulations
+Deck: 
+AD
+2D
+3D
+4D
+5D
+6D
+7D
+8D
+9D
+10D
+JD
+QD
+KD
+AH
+2H
+3H
+4H
+5H
+6H
+7H
+8H
+9H
+10H
+JH
+QH
+KH
+AS
+2S
+3S
+4S
+5S
+6S
+7S
+8S
+9S
+10S
+JS
+QS
+KS
+AC
+2C
+3C
+4C
+5C
+6C
+7C
+8C
+9C
+10C
+JC
+QC
+KC
+AD
+2D
+3D
+4D
+5D
+6D
+7D
+8D
+9D
+10D
+JD
+QD
+KD
+AH
+2H
+3H
+4H
+5H
+6H
+7H
+8H
+9H
+10H
+JH
+QH
+KH
+AS
+2S
+3S
+4S
+5S
+6S
+7S
+8S
+9S
+10S
+JS
+QS
+KS
+AC
+2C
+3C
+4C
+5C
+6C
+7C
+8C
+9C
+10C
+JC
+QC
+KC
+
+Deck with penetration: 
+
+New deck size: 83.2
+AC
+QH
+8H
+AH
+3D
+4S
+5S
+6C
+5C
+QH
+9C
+10S
+QS
+10H
+7D
+9D
+6D
+QS
+JH
+8C
+5H
+10D
+8D
+4C
+6C
+KH
+2S
+4D
+QD
+7D
+9H
+7H
+JD
+KS
+AS
+5C
+5D
+KC
+QD
+7C
+5D
+10C
+KH
+10D
+QC
+10S
+10C
+KD
+6D
+AC
+9S
+7S
+9S
+6H
+3D
+JD
+KC
+4C
+2H
+8H
+KS
+JS
+3S
+6H
+8S
+AS
+6S
+JS
+3C
+QC
+7C
+5S
+7H
+4H
+4S
+6S
+3H
+7S
+2S
+9D
+3H
+JH
+4D
+2D
+-----------------------------------------
+ROUND:0
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 2
+Player 1: QS, 8D, Value: 18
+WIN- Dealer Busted
+Remaining Chips: 201
+
+Player 2: JH, 4C, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 201
+
+Player 3: 8C, 6C, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 201
+
+Player 4: 5H, KH, Value: 15
+WIN- Dealer Busted
+Remaining Chips: 201
+
+Dealer: 10D, 2S, 4D, QD, Total: 26
+
+-----------------------------------------
+ROUND:1
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 9
+Player 1: 10C, 10C, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 202
+
+Player 2: KH, KD, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 202
+
+Player 3: 10D, 6D, 7S, Value: 23
+ LOST- Busted)
+Remaining Chips: 200
+
+Player 4: QC, AC, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 202
+
+Dealer: 10S, 9S, Total: 19
+
+-----------------------------------------
+ROUND:2
+Hilo- Player:1 |Bet: 1 |Count = -6 |True Count =-6
+Hilo- Player:2 |Bet: 1 |Count = -6 |True Count =-6
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -6|True Count =-6
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -6|True Count =-6
+
+Dealer's first card: 3
+Player 1: JS, 7H, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 201
+
+Player 2: 3C, 4H, 7S, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 201
+
+Player 3: QC, 4S, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 199
+
+Player 4: 7C, 6S, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 201
+
+Dealer: 5S, 3H, 2S, 9D, Total: 19
+
+-----------------------------------------
+ROUND:3
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 10
+Player 1: 10S, 10H, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 201
+
+Player 2: QH, 5D, QD, Value: 25
+ LOST- Busted)
+Remaining Chips: 200
+
+Player 3: 7S, AH, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 198
+
+Player 4: 4S, 2S, 7D, 4H, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 200
+
+Dealer: 5D, 10D, 5S, Total: 20
+
+-----------------------------------------
+ROUND:4
+Hilo- Player:1 |Bet: 2 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 2 |Count = 2 |True Count =2
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 1|True Count =1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 1|True Count =1
+
+Dealer's first card: 3
+Player 1: KS, 6D, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 199
+
+Player 2: 7H, 8D, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 198
+
+Player 3: 6H, 7C, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 197
+
+Player 4: 8H, 5C, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 199
+
+Dealer: AC, 3H, 6S, Total: 20
+
+-----------------------------------------
+ROUND:5
+Hilo- Player:1 |Bet: 5 |Count = 7 |True Count =7
+Hilo- Player:2 |Bet: 5 |Count = 7 |True Count =7
+Wong Halves Counter- Player:3 |Bet: 4 |Count = 4|True Count =4
+Wong Halves Counter- Player:4 |Bet: 4 |Count = 4|True Count =4
+
+Dealer's first card: 5
+Player 1: 3C, KC, Value: 13
+WIN- Dealer Busted
+Remaining Chips: 204
+
+Player 2: 2S, 10S, Value: 12
+WIN- Dealer Busted
+Remaining Chips: 203
+
+Player 3: 4D, QC, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 201
+
+Player 4: QD, KH, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 203
+
+Dealer: 9D, 5S, KD, Total: 24
+
+-----------------------------------------
+ROUND:6
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 10
+Player 1: 6C, 5C, AS, 5D, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 205
+
+Player 2: 7S, 9S, 10C, Value: 26
+ LOST- Busted)
+Remaining Chips: 202
+
+Player 3: 10S, QH, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 202
+
+Player 4: 8H, AC, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 204
+
+Dealer: 2D, KH, 2S, 10D, Total: 24
+
+-----------------------------------------
+ROUND:7
+Hilo- Player:1 |Bet: 1 |Count = -1 |True Count =-1
+Hilo- Player:2 |Bet: 1 |Count = -1 |True Count =-1
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -3|True Count =-3
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -3|True Count =-3
+
+Dealer's first card: 10
+Player 1: 4S, JD, 10D, Value: 24
+ LOST- Busted)
+Remaining Chips: 204
+
+Player 2: 5C, QD, QC, Value: 25
+ LOST- Busted)
+Remaining Chips: 201
+
+Player 3: KS, 3S, KC, Value: 23
+ LOST- Busted)
+Remaining Chips: 201
+
+Player 4: QH, 3D, 9D, Value: 22
+ LOST- Busted)
+Remaining Chips: 203
+
+Dealer: 6S, 10H, KS, Total: 26
+
+-----------------------------------------
+ROUND:8
+Hilo- Player:1 |Bet: 1 |Count = -5 |True Count =-5
+Hilo- Player:2 |Bet: 1 |Count = -5 |True Count =-5
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -6|True Count =-6
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -6|True Count =-6
+
+Dealer's first card: 5
+Player 1: QD, 6H, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 203
+
+Player 2: JS, 3H, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 200
+
+Player 3: 3C, 8C, 9C, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 202
+
+Player 4: AH, 5S, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 202
+
+Dealer: 4D, 5S, QS, Total: 19
+
+-----------------------------------------
+ROUND:9
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 10
+Player 1: 5C, 9D, 4D, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 202
+
+Player 2: 8C, 10C, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 199
+
+Player 3: 3H, 2S, 5H, 4H, 2D, QC, Value: 26
+ LOST- Busted)
+Remaining Chips: 201
+
+Player 4: QD, KS, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 202
+
+Dealer: KH, KC, Total: 20
+
+-----------------------------------------
+ROUND:10
+Hilo- Player:1 |Bet: 1 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 1 |Count = 1 |True Count =1
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 11
+Player 1: 7S, 8S, KC, Value: 25
+ LOST- Busted)
+Remaining Chips: 201
+
+Player 2: 2H, 10D, QS, Value: 22
+ LOST- Busted)
+Remaining Chips: 198
+
+Player 3: JH, 3D, 6H, Value: 19
+Tie- Card value equal to dealer
+Remaining Chips: 201
+
+Player 4: QS, 5D, QD, Value: 25
+ LOST- Busted)
+Remaining Chips: 201
+
+Dealer: 8H, AH, Total: 19
+
+-----------------------------------------
+ROUND:11
+Hilo- Player:1 |Bet: 1 |Count = -1 |True Count =-1
+Hilo- Player:2 |Bet: 1 |Count = -1 |True Count =-1
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -3|True Count =-3
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -3|True Count =-3
+
+Dealer's first card: 10
+Player 1: AS, QH, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 202
+
+Player 2: 2S, 6H, 4S, 9C, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 199
+
+Player 3: 7H, 3C, JS, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 201
+
+Player 4: 3D, 4S, 4C, QH, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 202
+
+Dealer: JD, 10S, Total: 20
+
+-----------------------------------------
+ROUND:12
+Hilo- Player:1 |Bet: 1 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 1 |Count = 1 |True Count =1
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+-DECK RESHUFFLED-
+
+Dealer's first card: 10
+Player 1: 5D, 4C, 9S, Value: 18
+Tie- Card value equal to dealer
+Remaining Chips: 202
+
+Player 2: 8C, 4S, 8H, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 200
+
+Player 3: 5S, AC, 10C, 7S, Value: 23
+ LOST- Busted)
+Remaining Chips: 200
+
+Player 4: 9S, KC, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 203
+
+Dealer: 5C, 10D, 3D, Total: 18
+
+-----------------------------------------
+ROUND:13
+Hilo- Player:1 |Bet: 3 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 3 |Count = 3 |True Count =3
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 1|True Count =1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 1|True Count =1
+
+Dealer's first card: 5
+Player 1: QS, 4D, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 205
+
+Player 2: AC, 3S, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 203
+
+Player 3: KS, KH, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 201
+
+Player 4: 2H, 2S, 6S, AS, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 204
+
+Dealer: 10S, 5S, 9D, Total: 24
+
+-----------------------------------------
+ROUND:14
+Hilo- Player:1 |Bet: 3 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 3 |Count = 3 |True Count =3
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 6
+Player 1: 7C, 3H, JD, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 208
+
+Player 2: 2D, 7H, QH, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 206
+
+Player 3: 9D, 7D, Value: 16
+WIN- Dealer Busted
+Remaining Chips: 202
+
+Player 4: 7H, 4C, 10C, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 205
+
+Dealer: 6D, 6S, QC, Total: 22
+
+-----------------------------------------
+ROUND:15
+Hilo- Player:1 |Bet: 5 |Count = 8 |True Count =8
+Hilo- Player:2 |Bet: 5 |Count = 8 |True Count =8
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+-DECK RESHUFFLED-
+
+Dealer's first card: 11
+Player 1: JD, 6S, 5C, Value: 21
+Tie- Card value equal to dealer
+Remaining Chips: 208
+
+Player 2: QS, QS, Value: 20
+LOSS- Cards less than dealer
+Remaining Chips: 205
+
+Player 3: 6H, 3H, 3S, AS, 6C, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 201
+
+Player 4: 3C, 7H, 8S, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 204
+
+Dealer: QD, AS, Total: 21
+
+-----------------------------------------
+ROUND:16
+Hilo- Player:1 |Bet: 2 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 2 |Count = 2 |True Count =2
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 1|True Count =1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 1|True Count =1
+
+Dealer's first card: 2
+Player 1: 4D, 9S, Value: 13
+WIN- Dealer Busted
+Remaining Chips: 210
+
+Player 2: 5D, 6D, 6H, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 207
+
+Player 3: 7H, 6C, Value: 13
+WIN- Dealer Busted
+Remaining Chips: 202
+
+Player 4: 6S, 10S, Value: 16
+WIN- Dealer Busted
+Remaining Chips: 205
+
+Dealer: 8D, 2S, 5D, JH, Total: 25
+
+-----------------------------------------
+ROUND:17
+Hilo- Player:1 |Bet: 5 |Count = 9 |True Count =9
+Hilo- Player:2 |Bet: 5 |Count = 9 |True Count =9
+Wong Halves Counter- Player:3 |Bet: 5 |Count = 5|True Count =5
+Wong Halves Counter- Player:4 |Bet: 5 |Count = 5|True Count =5
+
+Dealer's first card: 2
+Player 1: AC, QS, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 217
+
+Player 2: 5S, 3H, 7D, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 202
+
+Player 3: QC, 6D, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 197
+
+Player 4: 10C, 8C, Value: 18
+Tie- Card value equal to dealer
+Remaining Chips: 205
+
+Dealer: 7S, 2H, 9C, Total: 18
+
+-----------------------------------------
+ROUND:18
+Hilo- Player:1 |Bet: 5 |Count = 11 |True Count =11
+Hilo- Player:2 |Bet: 5 |Count = 11 |True Count =11
+Wong Halves Counter- Player:3 |Bet: 3 |Count = 3|True Count =3
+Wong Halves Counter- Player:4 |Bet: 3 |Count = 3|True Count =3
+
+Dealer's first card: 10
+-DECK RESHUFFLED-
+Player 1: AH, 2S, 5S, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 216
+
+Player 2: 10H, 10D, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 202
+
+Player 3: JS, 2D, KD, Value: 22
+ LOST- Busted)
+Remaining Chips: 196
+
+Player 4: 10S, 10D, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 205
+
+Dealer: KH, JH, Total: 20
+
+-----------------------------------------
+ROUND:19
+Hilo- Player:1 |Bet: 1 |Count = -6 |True Count =-6
+Hilo- Player:2 |Bet: 1 |Count = -6 |True Count =-6
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -5|True Count =-5
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -5|True Count =-5
+
+Dealer's first card: 10
+Player 1: QC, QS, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 216
+
+Player 2: QS, QD, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 202
+
+Player 3: 6H, KC, 6S, Value: 22
+ LOST- Busted)
+Remaining Chips: 195
+
+Player 4: 6C, 10H, KC, Value: 26
+ LOST- Busted)
+Remaining Chips: 204
+
+Dealer: JD, KH, Total: 20
+
+-----------------------------------------
+ROUND:20
+Hilo- Player:1 |Bet: 1 |Count = -12 |True Count =-12
+Hilo- Player:2 |Bet: 1 |Count = -12 |True Count =-12
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -11|True Count =-11
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -11|True Count =-11
+
+Dealer's first card: 2
+Player 1: 8S, 6C, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 217
+
+Player 2: 10D, KS, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 203
+
+Player 3: 3D, 5S, 6D, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 196
+
+Player 4: 4D, 7S, AH, JH, Value: 22
+ LOST- Busted)
+Remaining Chips: 203
+
+Dealer: 5C, 2D, 6D, 3H, 7D, Total: 23
+
+-----------------------------------------
+ROUND:21
+Hilo- Player:1 |Bet: 1 |Count = -5 |True Count =-5
+Hilo- Player:2 |Bet: 1 |Count = -5 |True Count =-5
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -2|True Count =-2
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -2|True Count =-2
+-DECK RESHUFFLED-
+
+Dealer's first card: 11
+Player 1: 3S, QD, 9S, Value: 22
+ LOST- Busted)
+Remaining Chips: 216
+
+Player 2: KH, QC, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 204
+
+Player 3: JD, QH, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 197
+
+Player 4: 3H, 4C, 4H, 2S, JD, Value: 23
+ LOST- Busted)
+Remaining Chips: 202
+
+Dealer: 4H, AH, QH, AC, Total: 26
+
+-----------------------------------------
+ROUND:22
+Hilo- Player:1 |Bet: 1 |Count = -3 |True Count =-3
+Hilo- Player:2 |Bet: 1 |Count = -3 |True Count =-3
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -3|True Count =-3
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -3|True Count =-3
+
+Dealer's first card: 7
+Player 1: 6D, KS, 3H, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 217
+
+Player 2: 5S, 4D, 9D, Value: 18
+WIN- Dealer Busted
+Remaining Chips: 205
+
+Player 3: 7D, 7S, 9S, Value: 23
+ LOST- Busted)
+Remaining Chips: 196
+
+Player 4: 4S, 9H, 5C, Value: 18
+WIN- Dealer Busted
+Remaining Chips: 203
+
+Dealer: 7D, 7H, KD, Total: 24
+
+-----------------------------------------
+ROUND:23
+Hilo- Player:1 |Bet: 5 |Count = 5 |True Count =5
+Hilo- Player:2 |Bet: 5 |Count = 5 |True Count =5
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 10
+Player 1: AS, 6H, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 212
+
+Player 2: 8H, AC, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 200
+
+Player 3: 2D, 10C, JH, Value: 22
+ LOST- Busted)
+Remaining Chips: 195
+
+Player 4: 6S, 4C, 8C, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 202
+
+Dealer: 10C, KH, Total: 20
+
+-----------------------------------------
+ROUND:24
+Hilo- Player:1 |Bet: 3 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 3 |Count = 3 |True Count =3
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -2|True Count =-2
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -2|True Count =-2
+-DECK RESHUFFLED-
+
+Dealer's first card: 7
+Player 1: QS, 7C, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 213
+
+Player 2: KC, 6H, 4C, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 201
+
+Player 3: 4C, 7D, 2H, 9S, Value: 22
+ LOST- Busted)
+Remaining Chips: 194
+
+Player 4: 9D, KC, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 203
+
+Dealer: 8D, 7D, 10D, Total: 25
+
+-----------------------------------------
+ROUND:25
+Hilo- Player:1 |Bet: 3 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 3 |Count = 3 |True Count =3
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+
+Dealer's first card: 9
+Player 1: QH, 7H, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 210
+
+Player 2: QH, JH, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 201
+
+Player 3: KD, 5S, KH, Value: 25
+ LOST- Busted)
+Remaining Chips: 193
+
+Player 4: JD, QS, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 203
+
+Dealer: AC, 9S, Total: 20
+
+-----------------------------------------
+ROUND:26
+Hilo- Player:1 |Bet: 1 |Count = -3 |True Count =-3
+Hilo- Player:2 |Bet: 1 |Count = -3 |True Count =-3
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -6|True Count =-6
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -6|True Count =-6
+
+Dealer's first card: 3
+Player 1: KH, 10C, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 211
+
+Player 2: 10C, QD, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 202
+
+Player 3: 6C, 8C, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 192
+
+Player 4: 9D, 10S, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 204
+
+Dealer: 5S, 3S, JS, Total: 18
+
+-----------------------------------------
+ROUND:27
+Hilo- Player:1 |Bet: 1 |Count = -6 |True Count =-6
+Hilo- Player:2 |Bet: 1 |Count = -6 |True Count =-6
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -8|True Count =-8
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -8|True Count =-8
+
+Dealer's first card: 2
+Player 1: QC, KS, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 212
+
+Player 2: JH, AC, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 203
+
+Player 3: 7S, 7C, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 191
+
+Player 4: 5D, QS, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 203
+
+Dealer: 7C, 2S, JD, Total: 19
+
+-----------------------------------------
+ROUND:28
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 7
+Player 1: 3S, JH, 5S, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 213
+
+Player 2: 3D, QD, 7S, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 204
+
+Player 3: 4C, 8C, 8D, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 192
+
+Player 4: QC, AC, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 204
+
+Dealer: KD, 7S, Total: 17
+
+-----------------------------------------
+ROUND:29
+Hilo- Player:1 |Bet: 1 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 1 |Count = 1 |True Count =1
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 5
+Player 1: QC, 5D, Value: 15
+WIN- Dealer Busted
+Remaining Chips: 214
+
+Player 2: 5H, 4D, 9S, Value: 18
+WIN- Dealer Busted
+Remaining Chips: 205
+
+Player 3: 6D, QH, Value: 16
+WIN- Dealer Busted
+Remaining Chips: 193
+
+Player 4: 7D, 2H, 7C, Value: 16
+WIN- Dealer Busted
+Remaining Chips: 205
+
+Dealer: 4H, 5D, 5S, 9H, Total: 23
+
+-----------------------------------------
+ROUND:30
+Hilo- Player:1 |Bet: 5 |Count = 9 |True Count =9
+Hilo- Player:2 |Bet: 5 |Count = 9 |True Count =9
+Wong Halves Counter- Player:3 |Bet: 3 |Count = 3|True Count =3
+Wong Halves Counter- Player:4 |Bet: 3 |Count = 3|True Count =3
+
+Dealer's first card: 10
+Player 1: AH, JD, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 221
+
+Player 2: 9S, 9D, Value: 18
+WIN- Dealer Busted
+Remaining Chips: 210
+
+Player 3: KC, 3D, 8S, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 196
+
+Player 4: 8H, 4S, QH, Value: 22
+ LOST- Busted)
+Remaining Chips: 202
+
+Dealer: 4S, 10S, QS, Total: 24
+
+-----------------------------------------
+ROUND:31
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 5
+Player 1: 6S, QC, Value: 16
+WIN- Dealer Busted
+Remaining Chips: 222
+
+Player 2: AS, 2H, Value: 13
+WIN- Dealer Busted
+Remaining Chips: 211
+
+Player 3: JH, 2S, Value: 12
+WIN- Dealer Busted
+Remaining Chips: 197
+
+Player 4: 3S, 6D, 4S, Value: 13
+WIN- Dealer Busted
+Remaining Chips: 203
+
+Dealer: 8S, 5S, 9H, Total: 22
+
+-----------------------------------------
+ROUND:32
+Hilo- Player:1 |Bet: 4 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 4 |Count = 4 |True Count =4
+Wong Halves Counter- Player:3 |Bet: 2 |Count = 2|True Count =2
+Wong Halves Counter- Player:4 |Bet: 2 |Count = 2|True Count =2
+
+Dealer's first card: 9
+Player 1: 8D, 8H, JH, Value: 26
+ LOST- Busted)
+Remaining Chips: 218
+
+Player 2: KH, 2D, JS, Value: 22
+ LOST- Busted)
+Remaining Chips: 207
+
+Player 3: 4C, 4D, 4H, 5H, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 195
+
+Player 4: 6D, 8H, 5D, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 205
+
+Dealer: 6H, 9D, 3H, Total: 18
+
+-----------------------------------------
+ROUND:33
+Hilo- Player:1 |Bet: 5 |Count = 10 |True Count =10
+Hilo- Player:2 |Bet: 5 |Count = 10 |True Count =10
+Wong Halves Counter- Player:3 |Bet: 5 |Count = 6|True Count =6
+Wong Halves Counter- Player:4 |Bet: 5 |Count = 6|True Count =6
+
+Dealer's first card: 10
+Player 1: KS, 4S, 5C, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 223
+
+Player 2: JD, 9D, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 212
+
+Player 3: 6C, KD, 7C, Value: 23
+ LOST- Busted)
+Remaining Chips: 190
+
+Player 4: 6C, 10D, 7H, Value: 23
+ LOST- Busted)
+Remaining Chips: 200
+
+Dealer: 2S, QS, 3C, KC, Total: 25
+
+-----------------------------------------
+ROUND:34
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 7
+Player 1: 10S, 6C, QS, Value: 26
+ LOST- Busted)
+Remaining Chips: 222
+
+Player 2: JD, 6D, 7C, Value: 23
+ LOST- Busted)
+Remaining Chips: 211
+
+Player 3: 10D, KH, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 191
+
+Player 4: JS, 4S, KH, Value: 24
+ LOST- Busted)
+Remaining Chips: 199
+
+Dealer: 3S, 7C, 9D, Total: 19
+
+-----------------------------------------
+ROUND:35
+Hilo- Player:1 |Bet: 1 |Count = -1 |True Count =-1
+Hilo- Player:2 |Bet: 1 |Count = -1 |True Count =-1
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+
+Dealer's first card: 10
+Player 1: 5S, 8S, AC, 10C, Value: 24
+ LOST- Busted)
+Remaining Chips: 221
+
+Player 2: 4C, KC, 3D, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 210
+
+Player 3: QC, 6H, AC, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 190
+
+Player 4: 5S, JS, 3H, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 198
+
+Dealer: KS, KD, Total: 20
+
+-----------------------------------------
+ROUND:36
+Hilo- Player:1 |Bet: 1 |Count = -3 |True Count =-3
+Hilo- Player:2 |Bet: 1 |Count = -3 |True Count =-3
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -3|True Count =-3
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -3|True Count =-3
+
+Dealer's first card: 8
+Player 1: 3C, KS, 7H, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 221
+
+Player 2: 9D, AS, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 210
+
+Player 3: 10H, 9S, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 189
+
+Player 4: QC, 10C, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 198
+
+Dealer: 7S, 8D, 5C, Total: 20
+
+-----------------------------------------
+ROUND:37
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 5
+Player 1: JS, 7H, Value: 17
+Tie- Card value equal to dealer
+Remaining Chips: 221
+
+Player 2: QS, 3H, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 209
+
+Player 3: KS, 2D, Value: 12
+LOSS- Cards less than dealer
+Remaining Chips: 188
+
+Player 4: 4D, 10C, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 197
+
+Dealer: 6H, 5C, 6C, Total: 17
+
+-----------------------------------------
+ROUND:38
+Hilo- Player:1 |Bet: 3 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 3 |Count = 3 |True Count =3
+Wong Halves Counter- Player:3 |Bet: 2 |Count = 2|True Count =2
+Wong Halves Counter- Player:4 |Bet: 2 |Count = 2|True Count =2
+
+Dealer's first card: 11
+Player 1: 7C, 9H, 8H, Value: 24
+ LOST- Busted)
+Remaining Chips: 218
+
+Player 2: 4S, 10D, 2H, KH, Value: 26
+ LOST- Busted)
+Remaining Chips: 206
+
+Player 3: QD, 3S, 9D, Value: 22
+ LOST- Busted)
+Remaining Chips: 186
+
+Player 4: 5D, 6S, 7D, Value: 18
+Tie- Card value equal to dealer
+Remaining Chips: 197
+
+Dealer: 7S, AC, Total: 18
+
+-----------------------------------------
+ROUND:39
+Hilo- Player:1 |Bet: 5 |Count = 7 |True Count =7
+Hilo- Player:2 |Bet: 5 |Count = 7 |True Count =7
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 3
+Player 1: 9S, QH, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 223
+
+Player 2: AH, 6D, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 211
+
+Player 3: 9D, 4C, Value: 13
+WIN- Dealer Busted
+Remaining Chips: 187
+
+Player 4: 10S, 7C, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 198
+
+Dealer: 3D, 3D, KC, QH, Total: 26
+
+-----------------------------------------
+ROUND:40
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 10
+Player 1: KS, 6S, QH, Value: 26
+ LOST- Busted)
+Remaining Chips: 222
+
+Player 2: 7C, 4D, 8H, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 210
+
+Player 3: 4C, 6H, 7S, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 186
+
+Player 4: AS, 5C, 8H, 8C, Value: 22
+ LOST- Busted)
+Remaining Chips: 197
+
+Dealer: AH, KH, Total: 21
+
+-----------------------------------------
+ROUND:41
+Hilo- Player:1 |Bet: 2 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 2 |Count = 2 |True Count =2
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 1|True Count =1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 1|True Count =1
+
+Dealer's first card: 6
+Player 1: 2D, 8D, 10C, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 224
+
+Player 2: 10D, 6H, Value: 16
+WIN- Dealer Busted
+Remaining Chips: 212
+
+Player 3: 7H, JD, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 187
+
+Player 4: 9D, 5H, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 198
+
+Dealer: JH, 6C, QD, Total: 26
+
+-----------------------------------------
+ROUND:42
+Hilo- Player:1 |Bet: 2 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 2 |Count = 2 |True Count =2
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+
+Dealer's first card: 5
+Player 1: KH, JH, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 226
+
+Player 2: 5D, JD, Value: 15
+WIN- Dealer Busted
+Remaining Chips: 214
+
+Player 3: KD, 6S, Value: 16
+WIN- Dealer Busted
+Remaining Chips: 188
+
+Player 4: 10S, 7S, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 199
+
+Dealer: 10C, 5C, 10D, Total: 25
+
+-----------------------------------------
+ROUND:43
+Hilo- Player:1 |Bet: 1 |Count = -1 |True Count =-1
+Hilo- Player:2 |Bet: 1 |Count = -1 |True Count =-1
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -2|True Count =-2
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -2|True Count =-2
+-DECK RESHUFFLED-
+
+Dealer's first card: 9
+Player 1: JS, 9D, Value: 19
+Tie- Card value equal to dealer
+Remaining Chips: 226
+
+Player 2: 2S, 10S, 4H, 4D, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 215
+
+Player 3: 5S, 2D, 7S, 7C, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 189
+
+Player 4: QC, 5D, 5C, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 200
+
+Dealer: 10C, 9D, Total: 19
+
+-----------------------------------------
+ROUND:44
+Hilo- Player:1 |Bet: 5 |Count = 5 |True Count =5
+Hilo- Player:2 |Bet: 5 |Count = 5 |True Count =5
+Wong Halves Counter- Player:3 |Bet: 3 |Count = 3|True Count =3
+Wong Halves Counter- Player:4 |Bet: 3 |Count = 3|True Count =3
+
+Dealer's first card: 9
+Player 1: 4C, 9H, 10H, Value: 23
+ LOST- Busted)
+Remaining Chips: 221
+
+Player 2: JH, 10D, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 220
+
+Player 3: 3C, KD, 9S, Value: 22
+ LOST- Busted)
+Remaining Chips: 186
+
+Player 4: AC, 5H, QD, 7H, Value: 23
+ LOST- Busted)
+Remaining Chips: 197
+
+Dealer: QH, 9C, Total: 19
+
+-----------------------------------------
+ROUND:45
+Hilo- Player:1 |Bet: 2 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 2 |Count = 2 |True Count =2
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+
+Dealer's first card: 10
+Player 1: 6S, 5S, 6H, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 219
+
+Player 2: KH, JH, Value: 20
+LOSS- Cards less than dealer
+Remaining Chips: 218
+
+Player 3: AS, 3D, 8H, KS, Value: 22
+ LOST- Busted)
+Remaining Chips: 185
+
+Player 4: 10D, 7D, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 196
+
+Dealer: AC, KC, Total: 21
+
+-----------------------------------------
+ROUND:46
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -2|True Count =-2
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -2|True Count =-2
+-DECK RESHUFFLED-
+
+Dealer's first card: 5
+Player 1: 2H, JD, Value: 12
+LOSS- Cards less than dealer
+Remaining Chips: 218
+
+Player 2: 3S, 5C, KC, Value: 18
+Tie- Card value equal to dealer
+Remaining Chips: 218
+
+Player 3: 4C, 10C, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 184
+
+Player 4: 4D, 9S, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 195
+
+Dealer: 3H, 5S, JH, Total: 18
+
+-----------------------------------------
+ROUND:47
+Hilo- Player:1 |Bet: 3 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 3 |Count = 3 |True Count =3
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 1|True Count =1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 1|True Count =1
+
+Dealer's first card: 5
+Player 1: AS, QH, Value: 21
+Tie- Card value equal to dealer
+Remaining Chips: 218
+
+Player 2: 6H, JS, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 215
+
+Player 3: 6H, 8C, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 183
+
+Player 4: 4S, 7S, 9D, Value: 20
+LOSS- Cards less than dealer
+Remaining Chips: 194
+
+Dealer: AC, 5S, 5H, Total: 21
+
+-----------------------------------------
+ROUND:48
+Hilo- Player:1 |Bet: 5 |Count = 5 |True Count =5
+Hilo- Player:2 |Bet: 5 |Count = 5 |True Count =5
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 1|True Count =1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 1|True Count =1
+
+Dealer's first card: 3
+Player 1: 7H, 4H, AS, 6S, Value: 18
+Tie- Card value equal to dealer
+Remaining Chips: 218
+
+Player 2: 6D, 4D, 5C, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 210
+
+Player 3: 5D, AC, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 182
+
+Player 4: 2D, KD, 2H, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 193
+
+Dealer: 6C, 3D, 9H, Total: 18
+
+-----------------------------------------
+ROUND:49
+Hilo- Player:1 |Bet: 5 |Count = 13 |True Count =13
+Hilo- Player:2 |Bet: 5 |Count = 13 |True Count =13
+Wong Halves Counter- Player:3 |Bet: 5 |Count = 5|True Count =5
+Wong Halves Counter- Player:4 |Bet: 5 |Count = 5|True Count =5
+-DECK RESHUFFLED-
+
+Dealer's first card: 11
+Player 1: 4C, 7D, 9C, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 219
+
+Player 2: 3S, 4D, AC, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 209
+
+Player 3: JD, 6S, 9H, Value: 25
+ LOST- Busted)
+Remaining Chips: 181
+
+Player 4: QC, 10C, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 194
+
+Dealer: 3D, AC, 5H, Total: 19
+
+-----------------------------------------
+ROUND:50
+Hilo- Player:1 |Bet: 2 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 2 |Count = 2 |True Count =2
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 2
+Player 1: JD, JS, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 221
+
+Player 2: KH, KS, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 211
+
+Player 3: 4S, 7D, 10H, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 182
+
+Player 4: 7D, QD, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 193
+
+Dealer: 4C, 2S, 7H, AS, 4H, Total: 18
+
+-----------------------------------------
+ROUND:51
+Hilo- Player:1 |Bet: 2 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 2 |Count = 2 |True Count =2
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 6
+Player 1: 4D, KC, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 223
+
+Player 2: 8S, 3D, 9D, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 213
+
+Player 3: 9S, 7S, Value: 16
+WIN- Dealer Busted
+Remaining Chips: 183
+
+Player 4: 6S, AH, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 194
+
+Dealer: QS, 6H, 7C, Total: 23
+
+-----------------------------------------
+ROUND:52
+Hilo- Player:1 |Bet: 5 |Count = 5 |True Count =5
+Hilo- Player:2 |Bet: 5 |Count = 5 |True Count =5
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 10
+-DECK RESHUFFLED-
+Player 1: 8D, 3C, QD, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 224
+
+Player 2: KS, 10D, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 214
+
+Player 3: 5C, 6H, 10C, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 184
+
+Player 4: JD, 6C, 3D, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 195
+
+Dealer: 3S, QH, QC, Total: 23
+
+-----------------------------------------
+ROUND:53
+Hilo- Player:1 |Bet: 1 |Count = -1 |True Count =-1
+Hilo- Player:2 |Bet: 1 |Count = -1 |True Count =-1
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+
+Dealer's first card: 9
+Player 1: 4C, JS, QS, Value: 24
+ LOST- Busted)
+Remaining Chips: 223
+
+Player 2: 3S, 5H, 8H, 7D, Value: 23
+ LOST- Busted)
+Remaining Chips: 213
+
+Player 3: 10H, 6C, 8C, Value: 24
+ LOST- Busted)
+Remaining Chips: 183
+
+Player 4: 7H, 7S, 8S, Value: 22
+ LOST- Busted)
+Remaining Chips: 194
+
+Dealer: 5C, 9D, 8D, Total: 22
+
+-----------------------------------------
+ROUND:54
+Hilo- Player:1 |Bet: 4 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 4 |Count = 4 |True Count =4
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 8
+Player 1: QS, 4S, QH, Value: 24
+ LOST- Busted)
+Remaining Chips: 219
+
+Player 2: 9D, 9H, Value: 18
+Tie- Card value equal to dealer
+Remaining Chips: 213
+
+Player 3: 4S, 6H, 5D, 10S, Value: 25
+ LOST- Busted)
+Remaining Chips: 182
+
+Player 4: JH, 3H, 6C, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 195
+
+Dealer: 3H, 8H, 7C, Total: 18
+
+-----------------------------------------
+ROUND:55
+Hilo- Player:1 |Bet: 5 |Count = 8 |True Count =8
+Hilo- Player:2 |Bet: 5 |Count = 8 |True Count =8
+Wong Halves Counter- Player:3 |Bet: 2 |Count = 2|True Count =2
+Wong Halves Counter- Player:4 |Bet: 2 |Count = 2|True Count =2
+
+Dealer's first card: 6
+Player 1: AC, 4H, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 214
+
+Player 2: 2S, 2D, 2S, QD, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 208
+
+Player 3: QH, AS, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 185
+
+Player 4: 3C, KC, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 193
+
+Dealer: 6H, 6D, 2H, 5D, Total: 19
+
+-----------------------------------------
+ROUND:56
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 6
+Player 1: JD, 8D, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 213
+
+Player 2: 10D, 5H, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 207
+
+Player 3: 7D, KC, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 184
+
+Player 4: JH, 6H, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 192
+
+Dealer: 7H, 6C, 6D, Total: 19
+
+-----------------------------------------
+ROUND:57
+Hilo- Player:1 |Bet: 2 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 2 |Count = 2 |True Count =2
+Wong Halves Counter- Player:3 |Bet: 2 |Count = 2|True Count =2
+Wong Halves Counter- Player:4 |Bet: 2 |Count = 2|True Count =2
+
+Dealer's first card: 3
+Player 1: QD, 4S, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 215
+
+Player 2: 10H, KS, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 209
+
+Player 3: KH, JH, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 186
+
+Player 4: 9D, 8H, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 194
+
+Dealer: JS, 3H, 9H, Total: 22
+
+-----------------------------------------
+ROUND:58
+Hilo- Player:1 |Bet: 1 |Count = -2 |True Count =-2
+Hilo- Player:2 |Bet: 1 |Count = -2 |True Count =-2
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -2|True Count =-2
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -2|True Count =-2
+
+Dealer's first card: 4
+Player 1: QH, QC, Value: 20
+LOSS- Cards less than dealer
+Remaining Chips: 214
+
+Player 2: QH, KD, Value: 20
+LOSS- Cards less than dealer
+Remaining Chips: 208
+
+Player 3: 5S, 3D, AC, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 185
+
+Player 4: 2S, KC, Value: 12
+LOSS- Cards less than dealer
+Remaining Chips: 193
+
+Dealer: JS, 4S, 7C, Total: 21
+
+-----------------------------------------
+ROUND:59
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 10
+Player 1: 5C, 9S, 2S, 5D, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 215
+
+Player 2: AS, 10H, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 209
+
+Player 3: 6D, KS, AC, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 184
+
+Player 4: JH, 10D, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 193
+
+Dealer: QD, QD, Total: 20
+
+-----------------------------------------
+ROUND:60
+Hilo- Player:1 |Bet: 1 |Count = -4 |True Count =-4
+Hilo- Player:2 |Bet: 1 |Count = -4 |True Count =-4
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -3|True Count =-3
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -3|True Count =-3
+
+Dealer's first card: 6
+Player 1: 4S, 10S, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 216
+
+Player 2: KS, 6C, Value: 16
+WIN- Dealer Busted
+Remaining Chips: 210
+
+Player 3: 3H, 4S, KC, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 185
+
+Player 4: JS, 5H, Value: 15
+WIN- Dealer Busted
+Remaining Chips: 194
+
+Dealer: 6C, 6H, 10S, Total: 22
+
+-----------------------------------------
+ROUND:61
+Hilo- Player:1 |Bet: 1 |Count = -2 |True Count =-2
+Hilo- Player:2 |Bet: 1 |Count = -2 |True Count =-2
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+
+Dealer's first card: 7
+Player 1: 3D, 7H, AH, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 217
+
+Player 2: 8C, 6H, KD, Value: 24
+ LOST- Busted)
+Remaining Chips: 209
+
+Player 3: 6D, 7S, KH, Value: 23
+ LOST- Busted)
+Remaining Chips: 184
+
+Player 4: 2H, QH, 8D, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 195
+
+Dealer: 4H, 7C, 4D, QS, Total: 25
+
+-----------------------------------------
+ROUND:62
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 10
+Player 1: 6H, 7C, QC, Value: 23
+ LOST- Busted)
+Remaining Chips: 216
+
+Player 2: 3D, 2S, 7D, JH, Value: 22
+ LOST- Busted)
+Remaining Chips: 208
+
+Player 3: 3S, 8D, 5S, 4D, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 185
+
+Player 4: 10H, 7H, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 194
+
+Dealer: 9H, QD, Total: 19
+
+-----------------------------------------
+ROUND:63
+Hilo- Player:1 |Bet: 5 |Count = 5 |True Count =5
+Hilo- Player:2 |Bet: 5 |Count = 5 |True Count =5
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 1|True Count =1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 1|True Count =1
+
+Dealer's first card: 10
+Player 1: 10C, AS, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 221
+
+Player 2: 4S, AC, 5D, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 213
+
+Player 3: KH, 5C, KS, Value: 25
+ LOST- Busted)
+Remaining Chips: 184
+
+Player 4: KC, 10C, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 195
+
+Dealer: 3C, QS, 4C, Total: 17
+
+-----------------------------------------
+ROUND:64
+Hilo- Player:1 |Bet: 2 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 2 |Count = 2 |True Count =2
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 5
+Player 1: 5H, 7H, Value: 12
+WIN- Dealer Busted
+Remaining Chips: 223
+
+Player 2: QD, 3H, Value: 13
+WIN- Dealer Busted
+Remaining Chips: 215
+
+Player 3: KD, KH, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 185
+
+Player 4: 5S, 10D, Value: 15
+WIN- Dealer Busted
+Remaining Chips: 196
+
+Dealer: 9S, 5C, QH, Total: 24
+
+-----------------------------------------
+ROUND:65
+Hilo- Player:1 |Bet: 2 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 2 |Count = 2 |True Count =2
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+-DECK RESHUFFLED-
+
+Dealer's first card: 4
+Player 1: 9S, QC, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 224
+
+Player 2: AC, 10D, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 216
+
+Player 3: 9C, AS, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 186
+
+Player 4: 8S, 10C, Value: 18
+Tie- Card value equal to dealer
+Remaining Chips: 196
+
+Dealer: 4H, 4C, 10H, Total: 18
+
+-----------------------------------------
+ROUND:66
+Hilo- Player:1 |Bet: 1 |Count = -4 |True Count =-4
+Hilo- Player:2 |Bet: 1 |Count = -4 |True Count =-4
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -4|True Count =-4
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -4|True Count =-4
+
+Dealer's first card: 10
+Player 1: 6H, QC, 3H, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 225
+
+Player 2: 6S, 6C, 2S, QD, Value: 24
+ LOST- Busted)
+Remaining Chips: 215
+
+Player 3: 8C, KC, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 187
+
+Player 4: 6H, 5D, 4S, QS, Value: 25
+ LOST- Busted)
+Remaining Chips: 195
+
+Dealer: 7H, QH, Total: 17
+
+-----------------------------------------
+ROUND:67
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+
+Dealer's first card: 11
+Player 1: AS, 5C, 6S, 3C, 6D, Value: 21
+Tie- Card value equal to dealer
+Remaining Chips: 225
+
+Player 2: 9S, 3H, QD, Value: 22
+ LOST- Busted)
+Remaining Chips: 214
+
+Player 3: 7C, 5S, 9D, Value: 21
+Tie- Card value equal to dealer
+Remaining Chips: 187
+
+Player 4: 3D, KS, 6D, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 194
+
+Dealer: QH, AH, Total: 21
+
+-----------------------------------------
+ROUND:68
+Hilo- Player:1 |Bet: 4 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 4 |Count = 4 |True Count =4
+Wong Halves Counter- Player:3 |Bet: 2 |Count = 2|True Count =2
+Wong Halves Counter- Player:4 |Bet: 2 |Count = 2|True Count =2
+-DECK RESHUFFLED-
+
+Dealer's first card: 8
+Player 1: 4D, 9S, 5C, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 224
+
+Player 2: JD, 4C, 3C, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 213
+
+Player 3: 2D, 7D, 9H, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 186
+
+Player 4: JS, 6S, 4S, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 194
+
+Dealer: 6C, 8H, 6H, Total: 20
+
+-----------------------------------------
+ROUND:69
+Hilo- Player:1 |Bet: 5 |Count = 8 |True Count =8
+Hilo- Player:2 |Bet: 5 |Count = 8 |True Count =8
+Wong Halves Counter- Player:3 |Bet: 5 |Count = 5|True Count =5
+Wong Halves Counter- Player:4 |Bet: 5 |Count = 5|True Count =5
+
+Dealer's first card: 2
+Player 1: 3H, QD, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 219
+
+Player 2: 6D, 9D, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 208
+
+Player 3: QD, 10D, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 186
+
+Player 4: JD, 9S, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 189
+
+Dealer: 8H, 2S, QS, Total: 20
+
+-----------------------------------------
+ROUND:70
+Hilo- Player:1 |Bet: 5 |Count = 6 |True Count =6
+Hilo- Player:2 |Bet: 5 |Count = 6 |True Count =6
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 10
+Player 1: AH, 9C, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 219
+
+Player 2: 7S, 3H, 4C, 10C, Value: 24
+ LOST- Busted)
+Remaining Chips: 203
+
+Player 3: 7C, JH, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 185
+
+Player 4: 6D, KS, 10S, Value: 26
+ LOST- Busted)
+Remaining Chips: 188
+
+Dealer: KC, QS, Total: 20
+
+-----------------------------------------
+ROUND:71
+Hilo- Player:1 |Bet: 4 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 4 |Count = 4 |True Count =4
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -3|True Count =-3
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -3|True Count =-3
+-DECK RESHUFFLED-
+
+Dealer's first card: 5
+Player 1: 4D, 7H, 9D, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 220
+
+Player 2: AC, AC, Value: 12
+WIN- Dealer Busted
+Remaining Chips: 204
+
+Player 3: AS, QC, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 186
+
+Player 4: 7C, 8C, Value: 15
+WIN- Dealer Busted
+Remaining Chips: 189
+
+Dealer: QH, 5D, 7D, Total: 22
+
+-----------------------------------------
+ROUND:72
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 4
+Player 1: 8C, KS, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 221
+
+Player 2: 10S, 10D, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 205
+
+Player 3: 8S, 4S, Value: 12
+LOSS- Cards less than dealer
+Remaining Chips: 185
+
+Player 4: 7D, 3D, 6S, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 188
+
+Dealer: 8H, 4S, 5S, Total: 17
+
+-----------------------------------------
+ROUND:73
+Hilo- Player:1 |Bet: 3 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 3 |Count = 3 |True Count =3
+Wong Halves Counter- Player:3 |Bet: 3 |Count = 3|True Count =3
+Wong Halves Counter- Player:4 |Bet: 3 |Count = 3|True Count =3
+
+Dealer's first card: 10
+Player 1: 6H, AS, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 218
+
+Player 2: QS, 3H, JD, Value: 23
+ LOST- Busted)
+Remaining Chips: 202
+
+Player 3: 6C, 8D, QS, Value: 24
+ LOST- Busted)
+Remaining Chips: 182
+
+Player 4: 10H, 6H, QH, Value: 26
+ LOST- Busted)
+Remaining Chips: 185
+
+Dealer: 9D, 10C, Total: 19
+
+-----------------------------------------
+ROUND:74
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+
+Dealer's first card: 3
+Player 1: 10C, 9S, Value: 19
+Tie- Card value equal to dealer
+Remaining Chips: 218
+
+Player 2: 6D, AH, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 201
+
+Player 3: 10D, JS, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 183
+
+Player 4: 9H, AC, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 186
+
+Dealer: QD, 3D, 6D, Total: 19
+
+-----------------------------------------
+ROUND:75
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 8
+Player 1: 3S, 6C, 4C, 4H, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 219
+
+Player 2: 9D, 2D, AS, QC, Value: 22
+ LOST- Busted)
+Remaining Chips: 200
+
+Player 3: 10C, 8H, Value: 18
+WIN- Dealer Busted
+Remaining Chips: 184
+
+Player 4: 5C, QD, 7H, Value: 22
+ LOST- Busted)
+Remaining Chips: 185
+
+Dealer: 6S, 8C, KC, Total: 24
+
+-----------------------------------------
+ROUND:76
+Hilo- Player:1 |Bet: 3 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 3 |Count = 3 |True Count =3
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 3
+Player 1: 5S, 10D, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 216
+
+Player 2: JD, KS, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 200
+
+Player 3: AS, AH, 2H, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 183
+
+Player 4: KC, JS, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 185
+
+Dealer: KH, 3D, 7C, Total: 20
+
+-----------------------------------------
+ROUND:77
+Hilo- Player:1 |Bet: 1 |Count = -1 |True Count =-1
+Hilo- Player:2 |Bet: 1 |Count = -1 |True Count =-1
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -4|True Count =-4
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -4|True Count =-4
+
+Dealer's first card: 7
+Player 1: QD, 10C, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 217
+
+Player 2: 10D, 10S, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 201
+
+Player 3: 7D, 4S, 7H, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 184
+
+Player 4: 9H, 9C, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 186
+
+Dealer: JD, 7S, Total: 17
+
+-----------------------------------------
+ROUND:78
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 10
+Player 1: 10S, JS, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 218
+
+Player 2: 6D, JH, 4C, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 202
+
+Player 3: 10C, 10D, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 185
+
+Player 4: 9D, JH, Value: 19
+Tie- Card value equal to dealer
+Remaining Chips: 186
+
+Dealer: 9C, KC, Total: 19
+
+-----------------------------------------
+ROUND:79
+Hilo- Player:1 |Bet: 1 |Count = -5 |True Count =-5
+Hilo- Player:2 |Bet: 1 |Count = -5 |True Count =-5
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -5|True Count =-5
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -5|True Count =-5
+
+Dealer's first card: 6
+Player 1: 2S, 9H, JD, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 219
+
+Player 2: 7C, 3C, KH, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 203
+
+Player 3: 3H, KS, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 184
+
+Player 4: QC, 3D, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 185
+
+Dealer: 3H, 6C, 3S, 5C, Total: 17
+
+-----------------------------------------
+ROUND:80
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 10
+Player 1: 10S, 7D, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 218
+
+Player 2: 2S, 8D, KD, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 203
+
+Player 3: 7H, QS, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 183
+
+Player 4: 7C, 8H, JS, Value: 25
+ LOST- Busted)
+Remaining Chips: 184
+
+Dealer: JD, QD, Total: 20
+
+-----------------------------------------
+ROUND:81
+Hilo- Player:1 |Bet: 1 |Count = -2 |True Count =-2
+Hilo- Player:2 |Bet: 1 |Count = -2 |True Count =-2
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -4|True Count =-4
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -4|True Count =-4
+-DECK RESHUFFLED-
+
+Dealer's first card: 6
+Player 1: 5C, 9D, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 217
+
+Player 2: AC, 10S, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 204
+
+Player 3: 8S, 6H, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 182
+
+Player 4: 4D, KC, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 183
+
+Dealer: 2D, 6S, KC, Total: 18
+
+-----------------------------------------
+ROUND:82
+Hilo- Player:1 |Bet: 1 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 1 |Count = 1 |True Count =1
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+
+Dealer's first card: 5
+Player 1: 10C, 10C, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 218
+
+Player 2: 10S, 3C, Value: 13
+WIN- Dealer Busted
+Remaining Chips: 205
+
+Player 3: 8H, QH, Value: 18
+WIN- Dealer Busted
+Remaining Chips: 183
+
+Player 4: 8C, AC, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 184
+
+Dealer: 3D, 5C, 7C, JS, Total: 25
+
+-----------------------------------------
+ROUND:83
+Hilo- Player:1 |Bet: 1 |Count = -1 |True Count =-1
+Hilo- Player:2 |Bet: 1 |Count = -1 |True Count =-1
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -2|True Count =-2
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -2|True Count =-2
+
+Dealer's first card: 4
+Player 1: 6C, 4H, 6S, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 217
+
+Player 2: JH, 3S, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 204
+
+Player 3: 7D, AH, Value: 18
+Tie- Card value equal to dealer
+Remaining Chips: 183
+
+Player 4: 7S, KH, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 183
+
+Dealer: 7H, 4C, 5D, 2S, Total: 18
+
+-----------------------------------------
+ROUND:84
+Hilo- Player:1 |Bet: 5 |Count = 6 |True Count =6
+Hilo- Player:2 |Bet: 5 |Count = 6 |True Count =6
+Wong Halves Counter- Player:3 |Bet: 3 |Count = 3|True Count =3
+Wong Halves Counter- Player:4 |Bet: 3 |Count = 3|True Count =3
+-DECK RESHUFFLED-
+
+Dealer's first card: 10
+Player 1: 3D, QC, 7D, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 218
+
+Player 2: KS, 6H, 8H, Value: 24
+ LOST- Busted)
+Remaining Chips: 203
+
+Player 3: 8H, 9C, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 184
+
+Player 4: 4S, KS, AS, 5H, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 184
+
+Dealer: 6D, KC, QD, Total: 26
+
+-----------------------------------------
+ROUND:85
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+
+Dealer's first card: 6
+Player 1: 3D, 5C, 7C, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 217
+
+Player 2: KS, KH, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 203
+
+Player 3: 9D, KC, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 183
+
+Player 4: 6S, 10S, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 183
+
+Dealer: 7C, 6C, 7S, Total: 20
+
+-----------------------------------------
+ROUND:86
+Hilo- Player:1 |Bet: 3 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 3 |Count = 3 |True Count =3
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 3
+Player 1: AS, 3D, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 214
+
+Player 2: QS, 10D, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 203
+
+Player 3: 6D, 2S, 2D, QH, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 183
+
+Player 4: KH, QC, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 183
+
+Dealer: 5D, 3S, 6H, 6C, Total: 20
+
+-----------------------------------------
+ROUND:87
+Hilo- Player:1 |Bet: 5 |Count = 5 |True Count =5
+Hilo- Player:2 |Bet: 5 |Count = 5 |True Count =5
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 1|True Count =1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 1|True Count =1
+-DECK RESHUFFLED-
+
+Dealer's first card: 6
+Player 1: 7D, 6S, Value: 13
+WIN- Dealer Busted
+Remaining Chips: 215
+
+Player 2: 6D, 5H, JD, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 204
+
+Player 3: 10C, 5C, Value: 15
+WIN- Dealer Busted
+Remaining Chips: 184
+
+Player 4: KD, 4D, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 184
+
+Dealer: 10H, 6D, 6H, Total: 22
+
+-----------------------------------------
+ROUND:88
+Hilo- Player:1 |Bet: 4 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 4 |Count = 4 |True Count =4
+Wong Halves Counter- Player:3 |Bet: 3 |Count = 3|True Count =3
+Wong Halves Counter- Player:4 |Bet: 3 |Count = 3|True Count =3
+
+Dealer's first card: 11
+Player 1: 4C, AS, 5S, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 219
+
+Player 2: 9D, 6D, 9S, Value: 24
+ LOST- Busted)
+Remaining Chips: 200
+
+Player 3: KS, 10S, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 187
+
+Player 4: 7D, KH, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 181
+
+Dealer: 5S, AC, 6S, 7H, Total: 19
+
+-----------------------------------------
+ROUND:89
+Hilo- Player:1 |Bet: 5 |Count = 6 |True Count =6
+Hilo- Player:2 |Bet: 5 |Count = 6 |True Count =6
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 1|True Count =1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 1|True Count =1
+
+Dealer's first card: 7
+Player 1: 10D, 7C, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 224
+
+Player 2: 2H, 4H, 5D, 8H, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 205
+
+Player 3: QC, QS, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 188
+
+Player 4: 7S, 8C, QH, Value: 25
+ LOST- Busted)
+Remaining Chips: 180
+
+Dealer: 8S, 7S, JH, Total: 25
+
+-----------------------------------------
+ROUND:90
+Hilo- Player:1 |Bet: 5 |Count = 7 |True Count =7
+Hilo- Player:2 |Bet: 5 |Count = 7 |True Count =7
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+-DECK RESHUFFLED-
+
+Dealer's first card: 10
+Player 1: 4D, 3D, 9H, 5H, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 225
+
+Player 2: AH, JD, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 206
+
+Player 3: 8H, JH, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 189
+
+Player 4: 8D, 8C, 6C, Value: 22
+ LOST- Busted)
+Remaining Chips: 179
+
+Dealer: 7H, KS, Total: 17
+
+-----------------------------------------
+ROUND:91
+Hilo- Player:1 |Bet: 1 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 1 |Count = 1 |True Count =1
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 1|True Count =1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 1|True Count =1
+
+Dealer's first card: 10
+Player 1: 5S, QS, 6C, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 226
+
+Player 2: AH, 7C, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 205
+
+Player 3: AC, AC, 4C, 3D, Value: 19
+Tie- Card value equal to dealer
+Remaining Chips: 189
+
+Player 4: 3S, KD, 2D, QH, Value: 25
+ LOST- Busted)
+Remaining Chips: 178
+
+Dealer: 5C, 10C, 4H, Total: 19
+
+-----------------------------------------
+ROUND:92
+Hilo- Player:1 |Bet: 3 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 3 |Count = 3 |True Count =3
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 1|True Count =1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 1|True Count =1
+
+Dealer's first card: 10
+Player 1: AS, 5C, QC, 7H, Value: 23
+ LOST- Busted)
+Remaining Chips: 223
+
+Player 2: 10S, 10C, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 208
+
+Player 3: 7D, 3D, 4C, 4S, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 190
+
+Player 4: 3H, 7C, 6S, 2H, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 179
+
+Dealer: 7D, 10D, Total: 17
+
+-----------------------------------------
+ROUND:93
+Hilo- Player:1 |Bet: 5 |Count = 9 |True Count =9
+Hilo- Player:2 |Bet: 5 |Count = 9 |True Count =9
+Wong Halves Counter- Player:3 |Bet: 3 |Count = 3|True Count =3
+Wong Halves Counter- Player:4 |Bet: 3 |Count = 3|True Count =3
+-DECK RESHUFFLED-
+
+Dealer's first card: 10
+Player 1: 9D, 10S, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 222
+
+Player 2: 8H, 7C, 7S, Value: 22
+ LOST- Busted)
+Remaining Chips: 207
+
+Player 3: 8S, 6C, 7H, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 191
+
+Player 4: 10D, 3H, 4H, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 178
+
+Dealer: QH, QC, Total: 20
+
+-----------------------------------------
+ROUND:94
+Hilo- Player:1 |Bet: 2 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 2 |Count = 2 |True Count =2
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 1|True Count =1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 1|True Count =1
+
+Dealer's first card: 11
+Player 1: 8S, QC, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 220
+
+Player 2: 5S, 3D, JH, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 205
+
+Player 3: 6S, 4S, KD, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 192
+
+Player 4: 4C, 10D, KS, Value: 24
+ LOST- Busted)
+Remaining Chips: 177
+
+Dealer: 5S, AH, 3C, Total: 19
+
+-----------------------------------------
+ROUND:95
+Hilo- Player:1 |Bet: 3 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 3 |Count = 3 |True Count =3
+Wong Halves Counter- Player:3 |Bet: 2 |Count = 2|True Count =2
+Wong Halves Counter- Player:4 |Bet: 2 |Count = 2|True Count =2
+
+Dealer's first card: 4
+Player 1: QD, 4D, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 217
+
+Player 2: 2S, AS, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 202
+
+Player 3: 7H, 6H, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 190
+
+Player 4: 6C, 7C, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 175
+
+Dealer: 2D, 4D, 8H, 6D, Total: 20
+
+-----------------------------------------
+ROUND:96
+Hilo- Player:1 |Bet: 5 |Count = 10 |True Count =10
+Hilo- Player:2 |Bet: 5 |Count = 10 |True Count =10
+Wong Halves Counter- Player:3 |Bet: 5 |Count = 5|True Count =5
+Wong Halves Counter- Player:4 |Bet: 5 |Count = 5|True Count =5
+
+Dealer's first card: 9
+Player 1: JD, 10C, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 222
+
+Player 2: 3S, QS, 9D, Value: 22
+ LOST- Busted)
+Remaining Chips: 197
+
+Player 3: 8H, KS, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 185
+
+Player 4: 8C, KH, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 170
+
+Dealer: JH, 9C, Total: 19
+
+-----------------------------------------
+ROUND:97
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = 0|True Count =0
+Wong Halves Counter- Player:4 |Bet: 1 |Count = 0|True Count =0
+
+Dealer's first card: 11
+Player 1: 3C, JD, KS, Value: 23
+ LOST- Busted)
+Remaining Chips: 221
+
+Player 2: 6H, QH, AH, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 196
+
+Player 3: 4D, 6C, QC, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 185
+
+Player 4: 4D, 7S, 6S, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 169
+
+Dealer: 9S, AS, Total: 20
+
+-----------------------------------------
+ROUND:98
+Hilo- Player:1 |Bet: 1 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 1 |Count = 1 |True Count =1
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -1|True Count =-1
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -1|True Count =-1
+
+Dealer's first card: 10
+Player 1: 3S, 8H, 9S, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 222
+
+Player 2: 10C, KC, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 197
+
+Player 3: 2S, 9H, 4S, QD, Value: 25
+ LOST- Busted)
+Remaining Chips: 184
+
+Player 4: 6D, 10C, QD, Value: 26
+ LOST- Busted)
+Remaining Chips: 168
+
+Dealer: 7C, KC, Total: 17
+
+-----------------------------------------
+ROUND:99
+Hilo- Player:1 |Bet: 1 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 1 |Count = 0 |True Count =0
+Wong Halves Counter- Player:3 |Bet: 1 |Count = -3|True Count =-3
+Wong Halves Counter- Player:4 |Bet: 1 |Count = -3|True Count =-3
+
+Dealer's first card: 11
+Player 1: JS, JD, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 223
+
+Player 2: 4S, 8S, 5S, Value: 17
+Tie- Card value equal to dealer
+Remaining Chips: 197
+
+Player 3: 10S, 4C, KD, Value: 24
+ LOST- Busted)
+Remaining Chips: 183
+
+Player 4: QS, QC, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 169
+
+Dealer: AS, AC, 5C, Total: 17
+
+////////////////////////////////
+
+Player 1: Hilo
+	Remaining Chips: 223
+	Loss or gain:23
+	Missed opportunities: 18
+	Times betted more than minimum:53
+Player 2: Hilo
+	Remaining Chips: 197
+	Loss or gain:-3
+	Missed opportunities: 17
+	Times betted more than minimum:53
+Player 3: Halves
+	Remaining Chips: 183
+	Loss or gain:-17
+	Missed oppurtunities:26
+	Times betted more than minimum:40
+Player 4: Halves
+	Remaining Chips: 169
+	Loss or gain:-31
+	Missed oppurtunities:21
+	Times betted more than minimum:40
+
+
+Process finished with exit code 0

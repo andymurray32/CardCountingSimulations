@@ -1,0 +1,1828 @@
+"C:\Program Files\Java\jdk-13\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.3\lib\idea_rt.jar=60398:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\andre\IdeaProjects\BlackjackSimulation\out\production\BlackjackSimulation var.Simulations
+Deck: 
+AD
+2D
+3D
+4D
+5D
+6D
+7D
+8D
+9D
+10D
+JD
+QD
+KD
+AH
+2H
+3H
+4H
+5H
+6H
+7H
+8H
+9H
+10H
+JH
+QH
+KH
+AS
+2S
+3S
+4S
+5S
+6S
+7S
+8S
+9S
+10S
+JS
+QS
+KS
+AC
+2C
+3C
+4C
+5C
+6C
+7C
+8C
+9C
+10C
+JC
+QC
+KC
+AD
+2D
+3D
+4D
+5D
+6D
+7D
+8D
+9D
+10D
+JD
+QD
+KD
+AH
+2H
+3H
+4H
+5H
+6H
+7H
+8H
+9H
+10H
+JH
+QH
+KH
+AS
+2S
+3S
+4S
+5S
+6S
+7S
+8S
+9S
+10S
+JS
+QS
+KS
+AC
+2C
+3C
+4C
+5C
+6C
+7C
+8C
+9C
+10C
+JC
+QC
+KC
+
+Deck with penetration: 
+
+New deck size: 83.2
+4S
+10D
+5D
+9D
+9S
+KS
+QS
+5C
+9H
+JH
+6H
+4H
+3C
+7C
+5C
+8S
+7D
+8D
+9S
+AC
+4C
+6D
+6C
+JD
+3D
+QC
+JC
+QD
+2H
+7S
+KD
+2S
+KC
+AD
+4D
+9C
+5H
+8D
+3S
+5D
+3H
+KH
+6S
+3H
+7H
+6D
+5S
+2C
+10H
+6H
+8H
+AH
+5H
+AD
+4S
+AS
+2D
+JD
+4C
+KS
+7D
+KH
+4H
+QD
+9C
+QC
+AH
+KD
+AS
+5S
+6S
+3C
+9D
+KC
+2H
+10C
+AC
+8S
+4D
+6C
+7S
+JH
+JC
+QS
+-----------------------------------------
+ROUND:0
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 7
+Player 1: 9H, 4H, 5C, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 197
+
+Player 2: JH, 3C, 8S, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 203
+
+Dealer: 6H, 7C, 7D, Total: 20
+
+-----------------------------------------
+ROUND:1
+Hilo- Player:1 |Bet: 15 |Count = 5 |True Count =5
+Hilo- Player:2 |Bet: 15 |Count = 5 |True Count =5
+
+Dealer's first card: 2
+Player 1: JD, JC, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 212
+
+Player 2: 3D, QD, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 188
+
+Dealer: QC, 2H, 7S, Total: 19
+
+-----------------------------------------
+ROUND:2
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+
+Dealer's first card: 3
+Player 1: 3S, KH, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 200
+
+Player 2: 5D, 6S, 7H, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 200
+
+Dealer: 3H, 3H, 6D, 5S, Total: 17
+
+-----------------------------------------
+ROUND:3
+Hilo- Player:1 |Bet: 15 |Count = 11 |True Count =11
+Hilo- Player:2 |Bet: 15 |Count = 11 |True Count =11
+
+Dealer's first card: 4
+Player 1: JD, 7D, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 215
+
+Player 2: 4C, KH, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 215
+
+Dealer: KS, 4H, QD, Total: 24
+
+-----------------------------------------
+ROUND:4
+Hilo- Player:1 |Bet: 15 |Count = 10 |True Count =10
+Hilo- Player:2 |Bet: 15 |Count = 10 |True Count =10
+
+Dealer's first card: 4
+Player 1: KC, AC, Value: 21
+Tie- Card value equal to dealer
+Remaining Chips: 215
+
+Player 2: 2H, 8S, 6C, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 200
+
+Dealer: 10C, 4D, 7S, Total: 21
+
+-----------------------------------------
+ROUND:5
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 10
+Player 1: AS, 7S, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 212
+
+Player 2: 9S, 3H, 4S, 6S, Value: 22
+ LOST- Busted)
+Remaining Chips: 197
+
+Dealer: JD, 10D, Total: 20
+
+-----------------------------------------
+ROUND:6
+Hilo- Player:1 |Bet: 3 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 3 |Count = 1 |True Count =1
+
+Dealer's first card: 10
+Player 1: AH, KC, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 216
+
+Player 2: 5S, 6H, 2H, 2H, AS, 6H, Value: 22
+ LOST- Busted)
+Remaining Chips: 194
+
+Dealer: QS, KD, Total: 20
+
+-----------------------------------------
+ROUND:7
+Hilo- Player:1 |Bet: 3 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 3 |Count = 1 |True Count =1
+
+Dealer's first card: 6
+Player 1: 7S, AD, Value: 18
+WIN- Dealer Busted
+Remaining Chips: 219
+
+Player 2: 6C, AC, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 197
+
+Dealer: 9S, 6C, 7C, Total: 22
+
+-----------------------------------------
+ROUND:8
+Hilo- Player:1 |Bet: 9 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 9 |Count = 3 |True Count =3
+
+Dealer's first card: 9
+Player 1: 5H, 9D, JD, Value: 24
+ LOST- Busted)
+Remaining Chips: 210
+
+Player 2: 5C, 2D, 9H, 5D, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 206
+
+Dealer: 9C, 9C, Total: 18
+
+-----------------------------------------
+ROUND:9
+Hilo- Player:1 |Bet: 15 |Count = 6 |True Count =6
+Hilo- Player:2 |Bet: 15 |Count = 6 |True Count =6
+
+Dealer's first card: 5
+Player 1: 10H, QC, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 225
+
+Player 2: JH, 7D, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 221
+
+Dealer: KC, 5S, 8H, Total: 23
+
+-----------------------------------------
+ROUND:10
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 10
+Player 1: 9C, 9S, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 228
+
+Player 2: KS, KH, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 224
+
+Dealer: 2D, 10C, 5S, Total: 17
+
+-----------------------------------------
+ROUND:11
+Hilo- Player:1 |Bet: 3 |Count = -1 |True Count =-1
+Hilo- Player:2 |Bet: 3 |Count = -1 |True Count =-1
+
+Dealer's first card: 6
+Player 1: 2H, 4S, 4C, KS, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 231
+
+Player 2: KD, 6C, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 221
+
+Dealer: KH, 6H, AC, Total: 17
+
+-----------------------------------------
+ROUND:12
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 11
+Player 1: JD, 7S, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 228
+
+Player 2: 8S, AC, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 218
+
+Dealer: 3S, AS, 6C, Total: 20
+
+-----------------------------------------
+ROUND:13
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 9
+Player 1: AH, 4H, 8D, KC, Value: 23
+ LOST- Busted)
+Remaining Chips: 225
+
+Player 2: 5D, AS, 6S, 6D, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 215
+
+Dealer: 10H, 9H, Total: 19
+
+-----------------------------------------
+ROUND:14
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 10
+Player 1: 7S, JC, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 222
+
+Player 2: 3C, KC, 8H, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 218
+
+Dealer: QS, JC, Total: 20
+
+-----------------------------------------
+ROUND:15
+Hilo- Player:1 |Bet: 3 |Count = -2 |True Count =-2
+Hilo- Player:2 |Bet: 3 |Count = -2 |True Count =-2
+-DECK RESHUFFLED-
+
+Dealer's first card: 10
+Player 1: QS, 9C, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 225
+
+Player 2: QS, 5D, 9D, Value: 24
+ LOST- Busted)
+Remaining Chips: 215
+
+Dealer: 4H, JC, 4S, Total: 18
+
+-----------------------------------------
+ROUND:16
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 10
+Player 1: 3C, 7S, 3S, 6H, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 222
+
+Player 2: QD, 3C, 6H, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 212
+
+Dealer: KC, JD, Total: 20
+
+-----------------------------------------
+ROUND:17
+Hilo- Player:1 |Bet: 9 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 9 |Count = 3 |True Count =3
+
+Dealer's first card: 7
+Player 1: 5S, QC, 4D, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 231
+
+Player 2: 7H, 6S, 5S, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 221
+
+Dealer: KH, 7D, Total: 17
+
+-----------------------------------------
+ROUND:18
+Hilo- Player:1 |Bet: 15 |Count = 7 |True Count =7
+Hilo- Player:2 |Bet: 15 |Count = 7 |True Count =7
+
+Dealer's first card: 11
+Player 1: QC, 7S, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 246
+
+Player 2: 5D, 10D, 8H, Value: 23
+ LOST- Busted)
+Remaining Chips: 206
+
+Dealer: AS, AC, AH, Total: 23
+
+-----------------------------------------
+ROUND:19
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+
+Dealer's first card: 10
+Player 1: 2C, 6C, 2S, KS, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 258
+
+Player 2: AC, 6C, Value: 17
+Tie- Card value equal to dealer
+Remaining Chips: 206
+
+Dealer: 7C, KD, Total: 17
+
+-----------------------------------------
+ROUND:20
+Hilo- Player:1 |Bet: 15 |Count = 6 |True Count =6
+Hilo- Player:2 |Bet: 15 |Count = 6 |True Count =6
+
+Dealer's first card: 5
+-DECK RESHUFFLED-
+Player 1: 3D, 2H, KC, Value: 15
+WIN- Dealer Busted
+Remaining Chips: 261
+
+Player 2: AH, 2D, Value: 13
+WIN- Dealer Busted
+Remaining Chips: 209
+
+Dealer: QD, 5H, JC, Total: 25
+
+-----------------------------------------
+ROUND:21
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 7
+Player 1: QC, KS, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 264
+
+Player 2: 8D, 9D, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 212
+
+Dealer: 3H, 7H, 5S, 8S, Total: 23
+
+-----------------------------------------
+ROUND:22
+Hilo- Player:1 |Bet: 3 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 3 |Count = 1 |True Count =1
+
+Dealer's first card: 10
+Player 1: 3C, 4H, AD, Value: 18
+WIN- Dealer Busted
+Remaining Chips: 267
+
+Player 2: KD, KH, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 215
+
+Dealer: 6D, JH, 8S, Total: 24
+
+-----------------------------------------
+ROUND:23
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 10
+Player 1: 7S, KC, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 270
+
+Player 2: 3C, 9H, QD, Value: 22
+ LOST- Busted)
+Remaining Chips: 212
+
+Dealer: 3S, QD, 9S, Total: 22
+
+-----------------------------------------
+ROUND:24
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 7
+Player 1: QC, AS, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 274
+
+Player 2: 2S, 6S, 6H, 2D, 4D, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 212
+
+Dealer: 4C, 7S, 9C, Total: 20
+
+-----------------------------------------
+ROUND:25
+Hilo- Player:1 |Bet: 15 |Count = 5 |True Count =5
+Hilo- Player:2 |Bet: 15 |Count = 5 |True Count =5
+
+Dealer's first card: 7
+-DECK RESHUFFLED-
+Player 1: 8H, 6S, 4C, Value: 18
+Tie- Card value equal to dealer
+Remaining Chips: 274
+
+Player 2: 6C, 2H, KC, Value: 18
+Tie- Card value equal to dealer
+Remaining Chips: 212
+
+Dealer: 5H, 7D, 6D, Total: 18
+
+-----------------------------------------
+ROUND:26
+Hilo- Player:1 |Bet: 15 |Count = 6 |True Count =6
+Hilo- Player:2 |Bet: 15 |Count = 6 |True Count =6
+
+Dealer's first card: 2
+Player 1: 6H, 8D, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 289
+
+Player 2: JC, 6D, Value: 16
+WIN- Dealer Busted
+Remaining Chips: 227
+
+Dealer: KH, 2H, QD, Total: 22
+
+-----------------------------------------
+ROUND:27
+Hilo- Player:1 |Bet: 15 |Count = 6 |True Count =6
+Hilo- Player:2 |Bet: 15 |Count = 6 |True Count =6
+
+Dealer's first card: 11
+Player 1: 5D, 3D, 7D, 7C, Value: 22
+ LOST- Busted)
+Remaining Chips: 274
+
+Player 2: 9H, JD, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 212
+
+Dealer: 3H, AC, 7D, Total: 21
+
+-----------------------------------------
+ROUND:28
+Hilo- Player:1 |Bet: 15 |Count = 10 |True Count =10
+Hilo- Player:2 |Bet: 15 |Count = 10 |True Count =10
+
+Dealer's first card: 3
+Player 1: AD, 5D, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 259
+
+Player 2: 7H, AH, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 197
+
+Dealer: 6C, 3H, QS, Total: 19
+
+-----------------------------------------
+ROUND:29
+Hilo- Player:1 |Bet: 15 |Count = 11 |True Count =11
+Hilo- Player:2 |Bet: 15 |Count = 11 |True Count =11
+
+Dealer's first card: 9
+Player 1: KD, 4H, 5S, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 274
+
+Player 2: 4H, 9S, AS, 4S, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 212
+
+Dealer: 4C, 9C, 4S, Total: 17
+
+-----------------------------------------
+ROUND:30
+Hilo- Player:1 |Bet: 15 |Count = 15 |True Count =15
+Hilo- Player:2 |Bet: 15 |Count = 15 |True Count =15
+
+Dealer's first card: 10
+-DECK RESHUFFLED-
+Player 1: 10C, 9S, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 277
+
+Player 2: JD, 5H, 6H, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 215
+
+Dealer: 2S, JC, 5S, Total: 17
+
+-----------------------------------------
+ROUND:31
+Hilo- Player:1 |Bet: 3 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 3 |Count = 1 |True Count =1
+
+Dealer's first card: 5
+Player 1: 5H, 8D, Value: 13
+WIN- Dealer Busted
+Remaining Chips: 280
+
+Player 2: 5H, 3D, 7S, Value: 15
+WIN- Dealer Busted
+Remaining Chips: 218
+
+Dealer: KH, 5D, JC, Total: 25
+
+-----------------------------------------
+ROUND:32
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+
+Dealer's first card: 10
+Player 1: 2C, 6C, AC, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 268
+
+Player 2: KS, 7S, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 206
+
+Dealer: KC, JD, Total: 20
+
+-----------------------------------------
+ROUND:33
+Hilo- Player:1 |Bet: 9 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 9 |Count = 3 |True Count =3
+
+Dealer's first card: 6
+Player 1: 4S, 9H, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 259
+
+Player 2: 8H, 4H, Value: 12
+LOSS- Cards less than dealer
+Remaining Chips: 197
+
+Dealer: 5D, 6C, 6D, Total: 17
+
+-----------------------------------------
+ROUND:34
+Hilo- Player:1 |Bet: 15 |Count = 8 |True Count =8
+Hilo- Player:2 |Bet: 15 |Count = 8 |True Count =8
+
+Dealer's first card: 4
+Player 1: 9D, QD, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 274
+
+Player 2: 7C, KD, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 212
+
+Dealer: 9S, 4S, 10C, Total: 23
+
+-----------------------------------------
+ROUND:35
+Hilo- Player:1 |Bet: 15 |Count = 7 |True Count =7
+Hilo- Player:2 |Bet: 15 |Count = 7 |True Count =7
+-DECK RESHUFFLED-
+
+Dealer's first card: 10
+Player 1: AC, 9C, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 277
+
+Player 2: 5C, 10D, 6C, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 215
+
+Dealer: 3S, 10D, QD, Total: 23
+
+-----------------------------------------
+ROUND:36
+Hilo- Player:1 |Bet: 3 |Count = -1 |True Count =-1
+Hilo- Player:2 |Bet: 3 |Count = -1 |True Count =-1
+
+Dealer's first card: 5
+Player 1: 7D, 6D, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 274
+
+Player 2: 6S, KD, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 212
+
+Dealer: AS, 5S, JH, 3S, Total: 19
+
+-----------------------------------------
+ROUND:37
+Hilo- Player:1 |Bet: 3 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 3 |Count = 1 |True Count =1
+
+Dealer's first card: 7
+Player 1: 4C, JD, 5D, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 277
+
+Player 2: 8S, 2C, 5D, 4H, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 215
+
+Dealer: 6H, 7S, KH, Total: 23
+
+-----------------------------------------
+ROUND:38
+Hilo- Player:1 |Bet: 15 |Count = 6 |True Count =6
+Hilo- Player:2 |Bet: 15 |Count = 6 |True Count =6
+
+Dealer's first card: 10
+Player 1: KD, 9S, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 292
+
+Player 2: 4S, 3H, 10C, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 230
+
+Dealer: 6C, QC, 6S, Total: 22
+
+-----------------------------------------
+ROUND:39
+Hilo- Player:1 |Bet: 15 |Count = 7 |True Count =7
+Hilo- Player:2 |Bet: 15 |Count = 7 |True Count =7
+
+Dealer's first card: 10
+Player 1: 6H, KH, KS, Value: 26
+ LOST- Busted)
+Remaining Chips: 277
+
+Player 2: AD, 9D, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 245
+
+Dealer: 9S, JC, Total: 19
+
+-----------------------------------------
+ROUND:40
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+-DECK RESHUFFLED-
+
+Dealer's first card: 10
+Player 1: 7D, JD, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 274
+
+Player 2: 3D, 3H, KD, 6D, Value: 22
+ LOST- Busted)
+Remaining Chips: 242
+
+Dealer: 2H, QC, 6H, Total: 18
+
+-----------------------------------------
+ROUND:41
+Hilo- Player:1 |Bet: 9 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 9 |Count = 3 |True Count =3
+
+Dealer's first card: 5
+Player 1: KD, 8S, Value: 18
+WIN- Dealer Busted
+Remaining Chips: 283
+
+Player 2: AC, QS, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 255
+
+Dealer: JC, 5H, 7S, Total: 22
+
+-----------------------------------------
+ROUND:42
+Hilo- Player:1 |Bet: 3 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 3 |Count = 1 |True Count =1
+
+Dealer's first card: 5
+Player 1: 10H, 5C, Value: 15
+WIN- Dealer Busted
+Remaining Chips: 286
+
+Player 2: KC, 9C, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 258
+
+Dealer: JD, 5C, 7C, Total: 22
+
+-----------------------------------------
+ROUND:43
+Hilo- Player:1 |Bet: 3 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 3 |Count = 1 |True Count =1
+
+Dealer's first card: 8
+Player 1: AD, AD, KS, KH, Value: 22
+ LOST- Busted)
+Remaining Chips: 283
+
+Player 2: 8D, 4C, 10D, Value: 22
+ LOST- Busted)
+Remaining Chips: 255
+
+Dealer: 5H, 8H, 6C, Total: 19
+
+-----------------------------------------
+ROUND:44
+Hilo- Player:1 |Bet: 3 |Count = -1 |True Count =-1
+Hilo- Player:2 |Bet: 3 |Count = -1 |True Count =-1
+
+Dealer's first card: 11
+Player 1: 3S, QD, 9D, Value: 22
+ LOST- Busted)
+Remaining Chips: 280
+
+Player 2: JC, 9C, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 252
+
+Dealer: KS, AH, Total: 21
+
+-----------------------------------------
+ROUND:45
+Hilo- Player:1 |Bet: 3 |Count = -4 |True Count =-4
+Hilo- Player:2 |Bet: 3 |Count = -4 |True Count =-4
+-DECK RESHUFFLED-
+
+Dealer's first card: 6
+Player 1: 8D, 9S, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 277
+
+Player 2: 5D, 7C, Value: 12
+LOSS- Cards less than dealer
+Remaining Chips: 249
+
+Dealer: 8S, 6C, 4C, Total: 18
+
+-----------------------------------------
+ROUND:46
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+
+Dealer's first card: 8
+Player 1: 7D, 3D, AC, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 289
+
+Player 2: 5H, 3S, 6H, 10D, Value: 24
+ LOST- Busted)
+Remaining Chips: 237
+
+Dealer: QS, 8S, Total: 18
+
+-----------------------------------------
+ROUND:47
+Hilo- Player:1 |Bet: 15 |Count = 6 |True Count =6
+Hilo- Player:2 |Bet: 15 |Count = 6 |True Count =6
+
+Dealer's first card: 4
+Player 1: 9S, 3H, Value: 12
+WIN- Dealer Busted
+Remaining Chips: 304
+
+Player 2: JD, KD, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 252
+
+Dealer: 4S, 4D, 8H, 9D, Total: 25
+
+-----------------------------------------
+ROUND:48
+Hilo- Player:1 |Bet: 15 |Count = 7 |True Count =7
+Hilo- Player:2 |Bet: 15 |Count = 7 |True Count =7
+
+Dealer's first card: 2
+Player 1: KH, QC, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 319
+
+Player 2: 5C, 6S, 6S, Value: 17
+Tie- Card value equal to dealer
+Remaining Chips: 252
+
+Dealer: 7S, 2H, 2D, 4H, 2C, Total: 17
+
+-----------------------------------------
+ROUND:49
+Hilo- Player:1 |Bet: 15 |Count = 13 |True Count =13
+Hilo- Player:2 |Bet: 15 |Count = 13 |True Count =13
+
+Dealer's first card: 10
+Player 1: 2S, KS, JC, Value: 22
+ LOST- Busted)
+Remaining Chips: 304
+
+Player 2: QS, AC, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 274
+
+Dealer: 8D, KC, Total: 18
+
+-----------------------------------------
+ROUND:50
+Hilo- Player:1 |Bet: 15 |Count = 9 |True Count =9
+Hilo- Player:2 |Bet: 15 |Count = 9 |True Count =9
+-DECK RESHUFFLED-
+
+Dealer's first card: 8
+Player 1: AD, 4D, 7D, 6C, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 307
+
+Player 2: 5H, 8S, 9D, Value: 22
+ LOST- Busted)
+Remaining Chips: 271
+
+Dealer: 9S, 8S, Total: 17
+
+-----------------------------------------
+ROUND:51
+Hilo- Player:1 |Bet: 9 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 9 |Count = 3 |True Count =3
+
+Dealer's first card: 5
+Player 1: 2S, QC, Value: 12
+LOSS- Cards less than dealer
+Remaining Chips: 298
+
+Player 2: 6H, AH, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 262
+
+Dealer: 3S, 5H, AD, Total: 19
+
+-----------------------------------------
+ROUND:52
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+
+Dealer's first card: 9
+Player 1: 3C, 10C, JH, Value: 23
+ LOST- Busted)
+Remaining Chips: 286
+
+Player 2: 7S, 7S, 2H, KC, Value: 26
+ LOST- Busted)
+Remaining Chips: 250
+
+Dealer: 2C, 9H, KH, Total: 21
+
+-----------------------------------------
+ROUND:53
+Hilo- Player:1 |Bet: 15 |Count = 5 |True Count =5
+Hilo- Player:2 |Bet: 15 |Count = 5 |True Count =5
+
+Dealer's first card: 5
+Player 1: JD, QD, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 301
+
+Player 2: 3C, 8H, QC, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 265
+
+Dealer: JC, 5S, 9S, Total: 24
+
+-----------------------------------------
+ROUND:54
+Hilo- Player:1 |Bet: 9 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 9 |Count = 3 |True Count =3
+
+Dealer's first card: 10
+Player 1: AC, 10D, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 310
+
+Player 2: 5S, 4S, 6H, 7H, Value: 22
+ LOST- Busted)
+Remaining Chips: 256
+
+Dealer: 9D, QS, Total: 19
+
+-----------------------------------------
+ROUND:55
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+-DECK RESHUFFLED-
+
+Dealer's first card: 7
+Player 1: 6S, QD, 6C, Value: 22
+ LOST- Busted)
+Remaining Chips: 307
+
+Player 2: AS, 2H, 8H, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 259
+
+Dealer: 6S, 7D, 5S, Total: 18
+
+-----------------------------------------
+ROUND:56
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+
+Dealer's first card: 3
+Player 1: 5S, 6H, 4D, Value: 15
+WIN- Dealer Busted
+Remaining Chips: 319
+
+Player 2: 4D, 3H, 4S, JH, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 271
+
+Dealer: 2D, 3S, JC, JD, Total: 25
+
+-----------------------------------------
+ROUND:57
+Hilo- Player:1 |Bet: 15 |Count = 9 |True Count =9
+Hilo- Player:2 |Bet: 15 |Count = 9 |True Count =9
+
+Dealer's first card: 8
+Player 1: 6D, 10H, KS, Value: 26
+ LOST- Busted)
+Remaining Chips: 304
+
+Player 2: 9S, 9C, Value: 18
+Tie- Card value equal to dealer
+Remaining Chips: 271
+
+Dealer: QC, 8D, Total: 18
+
+-----------------------------------------
+ROUND:58
+Hilo- Player:1 |Bet: 15 |Count = 7 |True Count =7
+Hilo- Player:2 |Bet: 15 |Count = 7 |True Count =7
+
+Dealer's first card: 2
+Player 1: 9S, 5H, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 319
+
+Player 2: 9D, QC, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 286
+
+Dealer: JD, 2S, 3H, 9H, Total: 24
+
+-----------------------------------------
+ROUND:59
+Hilo- Player:1 |Bet: 15 |Count = 8 |True Count =8
+Hilo- Player:2 |Bet: 15 |Count = 8 |True Count =8
+
+Dealer's first card: 10
+Player 1: 4H, 7D, AC, 7S, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 304
+
+Player 2: 8S, 7H, 5D, Value: 20
+LOSS- Cards less than dealer
+Remaining Chips: 271
+
+Dealer: AH, KC, Total: 21
+
+-----------------------------------------
+ROUND:60
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 5
+Player 1: 6H, 4S, 2C, Value: 12
+LOSS- Cards less than dealer
+Remaining Chips: 301
+
+Player 2: 6S, JH, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 268
+
+Dealer: 6H, 5D, QC, Total: 21
+
+-----------------------------------------
+ROUND:61
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+
+Dealer's first card: 10
+Player 1: AH, 9D, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 301
+
+Player 2: JH, 5C, 5H, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 268
+
+Dealer: 2S, KC, 8S, Total: 20
+
+-----------------------------------------
+ROUND:62
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+
+Dealer's first card: 10
+Player 1: 4D, KD, 7C, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 313
+
+Player 2: 3H, 3C, KS, 3S, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 280
+
+Dealer: 8H, QD, Total: 18
+
+-----------------------------------------
+ROUND:63
+Hilo- Player:1 |Bet: 15 |Count = 6 |True Count =6
+Hilo- Player:2 |Bet: 15 |Count = 6 |True Count =6
+
+Dealer's first card: 4
+Player 1: 5S, 9S, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 298
+
+Player 2: QC, AC, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 302
+
+Dealer: 4C, 4C, QS, Total: 18
+
+-----------------------------------------
+ROUND:64
+Hilo- Player:1 |Bet: 15 |Count = 6 |True Count =6
+Hilo- Player:2 |Bet: 15 |Count = 6 |True Count =6
+
+Dealer's first card: 11
+Player 1: 8D, 6C, JC, Value: 24
+ LOST- Busted)
+Remaining Chips: 283
+
+Player 2: 2H, 6D, 2D, 8D, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 287
+
+Dealer: 9D, AS, Total: 20
+
+-----------------------------------------
+ROUND:65
+Hilo- Player:1 |Bet: 15 |Count = 8 |True Count =8
+Hilo- Player:2 |Bet: 15 |Count = 8 |True Count =8
+-DECK RESHUFFLED-
+
+Dealer's first card: 5
+Player 1: QS, 10D, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 286
+
+Player 2: 4H, QC, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 284
+
+Dealer: 2D, 5D, KC, Total: 17
+
+-----------------------------------------
+ROUND:66
+Hilo- Player:1 |Bet: 3 |Count = -1 |True Count =-1
+Hilo- Player:2 |Bet: 3 |Count = -1 |True Count =-1
+
+Dealer's first card: 4
+Player 1: QD, 9S, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 289
+
+Player 2: 5H, 8D, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 281
+
+Dealer: 4D, 4S, 8D, 2H, Total: 18
+
+-----------------------------------------
+ROUND:67
+Hilo- Player:1 |Bet: 6 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 6 |Count = 2 |True Count =2
+
+Dealer's first card: 9
+Player 1: 3C, 9S, 3S, KC, Value: 25
+ LOST- Busted)
+Remaining Chips: 283
+
+Player 2: 6D, 7D, 3H, AS, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 275
+
+Dealer: KS, 9C, Total: 19
+
+-----------------------------------------
+ROUND:68
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+
+Dealer's first card: 3
+Player 1: 5C, QC, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 271
+
+Player 2: 9D, AH, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 287
+
+Dealer: KD, 3D, 6S, Total: 19
+
+-----------------------------------------
+ROUND:69
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+
+Dealer's first card: 9
+Player 1: KS, 6C, 3C, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 283
+
+Player 2: KH, 4C, 6D, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 299
+
+Dealer: 5D, 9H, 9C, Total: 23
+
+-----------------------------------------
+ROUND:70
+Hilo- Player:1 |Bet: 15 |Count = 7 |True Count =7
+Hilo- Player:2 |Bet: 15 |Count = 7 |True Count =7
+
+Dealer's first card: 7
+Player 1: 4H, JH, QS, Value: 24
+ LOST- Busted)
+Remaining Chips: 268
+
+Player 2: JC, 7S, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 284
+
+Dealer: AD, 7D, Total: 18
+
+-----------------------------------------
+ROUND:71
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 5
+Player 1: 7C, QD, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 271
+
+Player 2: 4D, 3H, 5D, Value: 12
+WIN- Dealer Busted
+Remaining Chips: 287
+
+Dealer: JH, 5H, KH, Total: 25
+
+-----------------------------------------
+ROUND:72
+Hilo- Player:1 |Bet: 6 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 6 |Count = 2 |True Count =2
+
+Dealer's first card: 3
+Player 1: 9S, 9C, Value: 18
+Tie- Card value equal to dealer
+Remaining Chips: 271
+
+Player 2: AD, 9H, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 293
+
+Dealer: KS, 3D, 5C, Total: 18
+
+-----------------------------------------
+ROUND:73
+Hilo- Player:1 |Bet: 6 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 6 |Count = 2 |True Count =2
+
+Dealer's first card: 10
+Player 1: QS, AD, Value: 21
+Tie- Card value equal to dealer
+Remaining Chips: 271
+
+Player 2: 7D, KS, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 287
+
+Dealer: AC, JD, Total: 21
+
+-----------------------------------------
+ROUND:74
+Hilo- Player:1 |Bet: 3 |Count = -2 |True Count =-2
+Hilo- Player:2 |Bet: 3 |Count = -2 |True Count =-2
+
+Dealer's first card: 5
+Player 1: 2H, 4S, KD, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 268
+
+Player 2: 4S, 4D, 6C, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 284
+
+Dealer: JC, 5C, 5S, Total: 20
+
+-----------------------------------------
+ROUND:75
+Hilo- Player:1 |Bet: 9 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 9 |Count = 3 |True Count =3
+
+Dealer's first card: 7
+Player 1: 4C, QS, 8D, Value: 22
+ LOST- Busted)
+Remaining Chips: 259
+
+Player 2: 3C, 3S, 6H, 2S, 6S, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 293
+
+Dealer: KC, 7D, Total: 17
+
+-----------------------------------------
+ROUND:76
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 3
+Player 1: 8D, KH, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 256
+
+Player 2: QS, 5D, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 290
+
+Dealer: 5S, 3H, 2S, 5C, 6H, Total: 21
+
+-----------------------------------------
+ROUND:77
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+
+Dealer's first card: 4
+Player 1: 6D, 3C, 9H, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 268
+
+Player 2: KS, 7S, Value: 17
+Tie- Card value equal to dealer
+Remaining Chips: 290
+
+Dealer: 2C, 4D, 10H, AH, Total: 17
+
+-----------------------------------------
+ROUND:78
+Hilo- Player:1 |Bet: 15 |Count = 6 |True Count =6
+Hilo- Player:2 |Bet: 15 |Count = 6 |True Count =6
+
+Dealer's first card: 10
+Player 1: JD, 2H, AC, 6C, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 283
+
+Player 2: 4S, 7D, 5C, JC, Value: 26
+ LOST- Busted)
+Remaining Chips: 275
+
+Dealer: 8D, KC, Total: 18
+
+-----------------------------------------
+ROUND:79
+Hilo- Player:1 |Bet: 15 |Count = 7 |True Count =7
+Hilo- Player:2 |Bet: 15 |Count = 7 |True Count =7
+
+Dealer's first card: 2
+Player 1: 4H, JC, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 298
+
+Player 2: 8H, 3H, 9C, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 290
+
+Dealer: 9S, 2H, 4S, 7D, Total: 22
+
+-----------------------------------------
+ROUND:80
+Hilo- Player:1 |Bet: 15 |Count = 11 |True Count =11
+Hilo- Player:2 |Bet: 15 |Count = 11 |True Count =11
+
+Dealer's first card: 6
+Player 1: 9D, QC, Value: 19
+WIN- Dealer Busted
+Remaining Chips: 313
+
+Player 2: JD, 5H, Value: 15
+WIN- Dealer Busted
+Remaining Chips: 305
+
+Dealer: 6H, 6D, 10D, Total: 22
+
+-----------------------------------------
+ROUND:81
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 10
+Player 1: 4S, 2S, AD, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 310
+
+Player 2: 6H, QD, 9C, Value: 25
+ LOST- Busted)
+Remaining Chips: 302
+
+Dealer: 9H, QS, Total: 19
+
+-----------------------------------------
+ROUND:82
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 5
+Player 1: 7S, 7C, Value: 14
+WIN- Dealer Busted
+Remaining Chips: 313
+
+Player 2: 6D, 6C, Value: 12
+WIN- Dealer Busted
+Remaining Chips: 305
+
+Dealer: 8D, 5D, AC, QD, Total: 24
+
+-----------------------------------------
+ROUND:83
+Hilo- Player:1 |Bet: 9 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 9 |Count = 3 |True Count =3
+
+Dealer's first card: 9
+Player 1: AS, AC, 3S, 6S, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 322
+
+Player 2: 5C, 3H, KS, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 296
+
+Dealer: JC, 9C, Total: 19
+
+-----------------------------------------
+ROUND:84
+Hilo- Player:1 |Bet: 9 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 9 |Count = 3 |True Count =3
+
+Dealer's first card: 5
+Player 1: JH, 5S, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 313
+
+Player 2: 3C, KH, Value: 13
+LOSS- Cards less than dealer
+Remaining Chips: 287
+
+Dealer: 5H, 5C, JD, Total: 20
+
+-----------------------------------------
+ROUND:85
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+
+Dealer's first card: 3
+Player 1: 7S, 4C, 8D, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 301
+
+Player 2: 2C, 7H, 5S, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 275
+
+Dealer: 4D, 3H, 8S, 6C, Total: 21
+
+-----------------------------------------
+ROUND:86
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 6
+Player 1: 5H, JD, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 298
+
+Player 2: 10D, 5S, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 272
+
+Dealer: 9S, 6H, 6C, Total: 21
+
+-----------------------------------------
+ROUND:87
+Hilo- Player:1 |Bet: 6 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 6 |Count = 2 |True Count =2
+
+Dealer's first card: 7
+Player 1: 5D, 6S, JH, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 304
+
+Player 2: 7D, KD, Value: 17
+WIN- Dealer Busted
+Remaining Chips: 278
+
+Dealer: 8S, 7S, QC, Total: 25
+
+-----------------------------------------
+ROUND:88
+Hilo- Player:1 |Bet: 9 |Count = 3 |True Count =3
+Hilo- Player:2 |Bet: 9 |Count = 3 |True Count =3
+
+Dealer's first card: 7
+Player 1: KS, 3S, KH, Value: 23
+ LOST- Busted)
+Remaining Chips: 295
+
+Player 2: 9C, QS, Value: 19
+WIN- Cards more than than dealer
+Remaining Chips: 287
+
+Dealer: KH, 7D, Total: 17
+
+-----------------------------------------
+ROUND:89
+Hilo- Player:1 |Bet: 3 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 3 |Count = 1 |True Count =1
+
+Dealer's first card: 2
+Player 1: AS, 6S, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 292
+
+Player 2: AS, 4D, Value: 15
+LOSS- Cards less than dealer
+Remaining Chips: 284
+
+Dealer: 8S, 2C, QS, Total: 20
+
+-----------------------------------------
+ROUND:90
+Hilo- Player:1 |Bet: 3 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 3 |Count = 1 |True Count =1
+
+Dealer's first card: 3
+Player 1: JC, 10C, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 295
+
+Player 2: 7S, KD, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 281
+
+Dealer: 6C, 3H, 9D, Total: 18
+
+-----------------------------------------
+ROUND:91
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 7
+Player 1: AD, 9C, Value: 20
+WIN- Cards more than than dealer
+Remaining Chips: 298
+
+Player 2: 5S, JH, 3H, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 284
+
+Dealer: KH, 7D, Total: 17
+
+-----------------------------------------
+ROUND:92
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 7
+Player 1: QC, 6D, 5C, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 301
+
+Player 2: KS, AS, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 288
+
+Dealer: 3D, 7S, 6H, JC, Total: 26
+
+-----------------------------------------
+ROUND:93
+Hilo- Player:1 |Bet: 3 |Count = 1 |True Count =1
+Hilo- Player:2 |Bet: 3 |Count = 1 |True Count =1
+
+Dealer's first card: 2
+Player 1: 6D, AS, Value: 17
+LOSS- Cards less than dealer
+Remaining Chips: 298
+
+Player 2: 5D, 4H, 5H, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 285
+
+Dealer: 3C, 2H, QS, 4S, Total: 19
+
+-----------------------------------------
+ROUND:94
+Hilo- Player:1 |Bet: 15 |Count = 6 |True Count =6
+Hilo- Player:2 |Bet: 15 |Count = 6 |True Count =6
+
+Dealer's first card: 7
+Player 1: 2H, 8H, QD, Value: 20
+WIN- Dealer Busted
+Remaining Chips: 313
+
+Player 2: 5C, JD, 6H, Value: 21
+WIN- Dealer Busted
+Remaining Chips: 300
+
+Dealer: 9C, 7D, 9D, Total: 25
+
+-----------------------------------------
+ROUND:95
+Hilo- Player:1 |Bet: 15 |Count = 8 |True Count =8
+Hilo- Player:2 |Bet: 15 |Count = 8 |True Count =8
+
+Dealer's first card: 3
+Player 1: 10H, AC, Value: 21
+WIN- Cards more than than dealer
+Remaining Chips: 328
+
+Player 2: JH, 8S, Value: 18
+LOSS- Cards less than dealer
+Remaining Chips: 285
+
+Dealer: 4C, 3C, 7S, 5D, Total: 19
+
+-----------------------------------------
+ROUND:96
+-DECK RESHUFFLED-
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 11
+Player 1: 6H, 4H, 9S, Value: 19
+LOSS- Cards less than dealer
+Remaining Chips: 325
+
+Player 2: 5D, 4C, AD, Value: 20
+Tie- Card value equal to dealer
+Remaining Chips: 285
+
+Dealer: 9S, AS, Total: 20
+
+-----------------------------------------
+ROUND:97
+Hilo- Player:1 |Bet: 6 |Count = 2 |True Count =2
+Hilo- Player:2 |Bet: 6 |Count = 2 |True Count =2
+
+Dealer's first card: 10
+Player 1: KS, 7S, Value: 17
+Tie- Card value equal to dealer
+Remaining Chips: 325
+
+Player 2: KD, 8D, Value: 18
+WIN- Cards more than than dealer
+Remaining Chips: 291
+
+Dealer: 6C, QD, AH, Total: 17
+
+-----------------------------------------
+ROUND:98
+Hilo- Player:1 |Bet: 3 |Count = 0 |True Count =0
+Hilo- Player:2 |Bet: 3 |Count = 0 |True Count =0
+
+Dealer's first card: 4
+Player 1: 3H, 6S, 5H, Value: 14
+LOSS- Cards less than dealer
+Remaining Chips: 322
+
+Player 2: 6D, 10H, Value: 16
+LOSS- Cards less than dealer
+Remaining Chips: 288
+
+Dealer: 4D, 4C, JH, Total: 18
+
+-----------------------------------------
+ROUND:99
+Hilo- Player:1 |Bet: 12 |Count = 4 |True Count =4
+Hilo- Player:2 |Bet: 12 |Count = 4 |True Count =4
+
+Dealer's first card: 2
+Player 1: 6C, 6D, 3C, Value: 15
+WIN- Dealer Busted
+Remaining Chips: 334
+
+Player 2: 3C, 5H, JC, Value: 18
+WIN- Dealer Busted
+Remaining Chips: 300
+
+Dealer: 2C, 2S, 10D, AC, AC, Total: 26
+
+////////////////////////////////
+
+Player 1: Hilo
+	Remaining Chips: 334
+	Loss or gain:134
+	Missed opportunities: 9
+	Times betted more than minimum:67
+Player 2: Hilo
+	Remaining Chips: 300
+	Loss or gain:100
+	Missed opportunities: 6
+	Times betted more than minimum:67
+
+
+Process finished with exit code 0
